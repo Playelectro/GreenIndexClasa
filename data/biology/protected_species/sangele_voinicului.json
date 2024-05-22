@@ -1,14 +1,14 @@
 {
-    "name" : "Sângele Voinicului",
-    "location" : [[47.5476760501309, 26.378315603736034]],
-    "description" : "(Nigritella rubra) este o plantă din familia Orchidaceae. Are tulpina dreaptă, înaltă de 8–14 cm",
-    "status" : "Risc Scazut",
+    "name" : "Sângele voinicului (Nigretella ruba)",
+   "location" : [[45.374095163615884, 25.45028106431335]],
+   "description" : " Face parte din familia orhideelor, fiind întâlnită pe pajiștile alpine și subalpine din Europa. Pe de altă parte, Sângele Voinicului este în categoria de plante pe cale de dispariție din România, din cauza culesului abuziv. Tulpina florii are între 8 – 20 de cm, iar floarea din vârf este mică având culori de roz, roșu sau purpuriu. Sângele Voinicului se poate admira între lunile iunie – august în Parcul Natural Bucegi sau Parcul Național Munții Rodnei.",
+    "status" : "Aproape de pericol",
     "type" : "Plant",
-    "images" : "static/images/sangele_voinicului/1.jpg",
+    "images" : "static/images/sangele_voinicului1.jpeg",
+    "german_name" : "Das Blutauge",
+    "german_description" : "Das Blutauge gehört zur Orchideenfamilie und ist auf alpinen und subalpinen Wiesen in Europa zu finden. Auf der anderen Seite ist das Blutauge in Rumänien aufgrund übermäßiger Ernte in der Kategorie der gefährdeten Pflanzen. Der Blütenstiel ist zwischen 8 und 20 cm lang, und die Blume an der Spitze ist klein und hat Farben wie Rosa, Rot oder Purpur. Das Blutauge kann zwischen Juni und August im Bucegi-Naturpark oder im Rodnaer Nationalpark bewundert werden.",
 
-    "german_name" : "Der Ritterblut",
-    "german_description" : "(Nigritella rubra) ist eine Pflanze aus der Familie der Orchidaceae. Sie hat einen geraden Stängel, der 8–14 cm hoch ist.",
-
-    "french_name" : "De pois de senteur",
-    "french_description" : "(Nigritella rubra) est une plante de la famille des Orchidaceae. Elle a une tige droite, mesurant de 8 à 14 cm de hauteur."
-}
+    "french_name" : "Sang du Vaillant",
+    "french_description" : "Elle fait partie de la famille des orchidées, et est rencontrée dans les prairies alpines et subalpines d'Europe. Par ailleurs, le Sang du Vaillant est classé parmi les plantes en voie de disparition en Roumanie en raison de la cueillette abusive. La tige de la fleur mesure entre 8 et 20 cm, et la fleur au sommet est petite, avec des couleurs allant du rose, rouge ou pourpre. Le Sang du Vaillant peut être admiré entre les mois de juin et août dans le Parc Naturel Bucegi ou le Parc National des Monts Rodnei."
+  }
+  

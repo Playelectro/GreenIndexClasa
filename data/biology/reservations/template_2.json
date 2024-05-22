@@ -1,6 +1,0 @@
-{
-    "name" : "the name of the reservation",
-    "location" : [[46.772198, 15.073237]],
-    "images" : "list of images",
-    "description" : "description of the reservation"
-}

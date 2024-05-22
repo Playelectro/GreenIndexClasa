@@ -2,5 +2,10 @@
     "name" : "Mănăstirea Agapia",
     "location" : [[47.16745365550728, 26.233075253553363]],
     "description" : "Manastirea Agapia este un important centru religios și cultural din România, situat în județul Neamț, la poalele Munților Stânișoarei. Fondată în secolul al XVII-lea, manastirea este una dintre cele mai mari și mai renumite mănăstiri de maici din țară.Arhitectura sa impresionantă este caracterizată de stilul brâncovenesc și se remarcă prin clădirile sale cu aspect tradițional românesc. Biserica principală, cu hramul Sfânta Ana, este decorată cu picturi murale de o mare valoare artistică.În incinta mănăstirii se găsesc și alte construcții importante, precum turnul clopotniță și chiliile pentru călugărițe. ",
-    "images" : "/static/images/manastirea_agapia/manastirea_agapia.jpg"
+    "images" : "/static/images/manastirea_agapia/manastirea_agapia.jpg",
+    "german_name" : "Agapia-Kloster",
+    "german_description" : "Das Agapia-Kloster ist ein wichtiges religiöses und kulturelles Zentrum in Rumänien und liegt im Kreis Neamț am Fuße des Stânișoara-Gebirges. Das im 17. Jahrhundert gegründete Kloster ist eines der größten und berühmtesten Nonnenklöster des Landes. Seine beeindruckende Architektur ist vom Brancoven-Stil geprägt und zeichnet sich durch seine Gebäude mit traditionellem rumänischem Aussehen aus. Die der Heiligen Ana geweihte Hauptkirche ist mit Wandgemälden von großem künstlerischen Wert geschmückt. Auf dem Klostergelände befinden sich auch andere wichtige Gebäude wie der Glockenturm und die Zellen für die Nonnen. ",
+
+    "french_name" : "Monastère d'Agapia",
+    "french_description" : "Le monastère d'Agapia est un centre religieux et culturel important en Roumanie, situé dans le département de Neamț, au pied des montagnes de Stânișoara. Fondé au XVIIe siècle, le monastère est l'un des couvents les plus grands et les plus célèbres du pays. Son architecture impressionnante se caractérise par le style Brancoven et se distingue par ses bâtiments à l'aspect traditionnel roumain. L'église principale, dédiée à Sainte Anne, est décorée de peintures murales d'une grande valeur artistique. Dans l'enceinte du monastère se trouvent également d'autres bâtiments importants, comme le clocher et les cellules des religieuses."
 }

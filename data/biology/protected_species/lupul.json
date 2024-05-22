@@ -1,0 +1,22 @@
+{ 
+
+    "name" : "Lupul (Canis lupus)" ,
+
+    "location" : [[45.5748981323917, 24.484447716292372]], 
+
+    "description" : "Lupul (Canis lupus) este un cosmopolit al lumii animalelor: specia a avut în trecut cea mai largă răspândire a vreunui mamifer pe glob. Lupul reprezintă o specie cheie, care joacă un rol esențial în reglarea structurii ecosistemului. În ciuda importanței lor, lupii au fost exterminați din majoritatea regiunilor europene în ultimele două secole, ajungând la un număr minim la mijlocul secolului XX. În ciuda unei populații destul de mari de care se bucură țara noastră, specia este amenințată de invadarea habitatului, de defrișările și lucrările de infrastructură care fragmentează pădurile, de braconaj.", 
+
+    "status" : "Risc Scăzut", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/lup.jpg",
+    "german_name" : "Wolf",
+    "german_description" : "Der Wolf (Canis lupus) ist ein Kosmopolit unter den Tieren: Diese Art hatte einst die weiteste Verbreitung eines Säugetiers weltweit. Der Wolf ist eine Schlüsselart, die eine wesentliche Rolle bei der Regulierung der Ökosystemstruktur spielt. Trotz ihrer Bedeutung wurden Wölfe in den letzten beiden Jahrhunderten aus den meisten europäischen Regionen ausgerottet und erreichten Mitte des 20. Jahrhunderts einen minimalen Bestand. Trotz einer relativ großen Population in unserem Land ist die Art durch Habitatzerstörung, Abholzung und Infrastrukturprojekte, die Wälder fragmentieren, sowie Wilderei bedroht.",
+
+    "french_name" : "Loup",
+    "french_description" : "Le loup (Canis lupus) est un cosmopolite parmi les animaux : cette espèce a autrefois eu la plus large répartition de tous les mammifères dans le monde. Le loup est une espèce clé qui joue un rôle essentiel dans la régulation de la structure des écosystèmes. Malgré leur importance, les loups ont été exterminés de la plupart des régions européennes au cours des deux derniers siècles, atteignant un nombre minimal au milieu du XXe siècle. Malgré une population assez importante dans notre pays, l'espèce est menacée par l'envahissement de son habitat, la déforestation et les travaux d'infrastructure qui fragmentent les forêts, ainsi que le braconnage." 
+
+} 
+
+ 

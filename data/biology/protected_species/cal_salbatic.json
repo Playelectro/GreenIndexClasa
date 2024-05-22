@@ -1,0 +1,20 @@
+{ 
+
+    "name" : "Cal Sălbatic (Equus ferus)" ,
+
+    "location" : [[45.3000470393606, 29.510898115115474]], 
+
+    "description" : "Caii sălbatici de la Letea sunt un grup de cai sălbatici care trăiesc în zona pădurilor Letea si Caraorman din Delta Dunarii, in România. Acești cai sunt cunoscuți pentru aspectul lor unic, cu blana de culoare neagră si coada lungă. Sunt considerați o specie protejată din cauza dimensiunilor reduse ale populației lor. În general, caii sălbatici sunt animale puternice și agile, care se adaptează bine la diverse medii. Sunt animale sociale, care trăiesc în grupuri, și se hrănesc cu iarbă, frunze si fructe.", 
+
+    "status" : "În pericol", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/cal_salbatic.jpg",
+    "german_name" : "Wildpferd (Equus ferus)",
+    "german_description" : "Die Wildpferde von Letea sind eine Gruppe von Wildpferden, die in den Wäldern von Letea und Caraorman im Donaudelta in Rumänien leben. Diese Pferde sind für ihr einzigartiges Aussehen mit schwarzem Fell und langem Schweif bekannt. Sie gelten aufgrund ihrer geringen Populationsgröße als geschützte Art. Im Allgemeinen sind Wildpferde starke und wendige Tiere, die sich gut an verschiedene Umgebungen anpassen können. Sie sind soziale Tiere, die in Gruppen leben und sich von Gras, Blättern und Früchten ernähren.",
+
+    "french_name" : "Cheval sauvage (Equus ferus)",
+    "french_description" : "Les chevaux sauvages de Letea sont un groupe de chevaux sauvages qui vivent dans la région des forêts de Letea et Caraorman dans le Delta du Danube, en Roumanie. Ces chevaux sont connus pour leur apparence unique, avec un pelage noir et une longue queue. Ils sont considérés comme une espèce protégée en raison de la petite taille de leur population. En général, les chevaux sauvages sont des animaux puissants et agiles, qui s'adaptent bien à différents environnements. Ce sont des animaux sociaux qui vivent en groupes et se nourrissent d'herbe, de feuilles et de fruits." 
+
+} 

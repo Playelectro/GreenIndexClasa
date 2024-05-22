@@ -1,0 +1,12 @@
+{
+    "name" : "Iași",
+    "location" : [[47.15867576205212, 27.601387381484606]],
+    "description" : "Universitatea Alexandru Ioan Cuza din Iaşi oferă programe academice în limba franceză în diverse domenii de studiu, precum şi cursuri de franceză pentru studenţii şi membrii publicului, interesaţi de învăţarea limbii. Universitatea Alexandru Ioan Cuza menține parteneriate cu multe universități francofone prin programe de schimb de studenți. Aceste parteneriate oferă studenților ieșeni oportunitatea de a petrece un semestru sau un an universitar într-o țară francofonă, îmbogățindu-și astfel experiența academică și înțelegerea interculturală.",
+    "images" : "/static/images/iasi_fran/1.jpg",
+
+    "german_name" : "Iasi",
+    "german_description" : "Die Alexandru Ioan Cuza Universität in Iaşi bietet akademische Programme auf Französisch in verschiedenen Studienbereichen sowie Französischkurse für Studenten und die Öffentlichkeit an, die daran interessiert sind, die Sprache zu lernen. Die Alexandru Ioan Cuza University unterhält über Studentenaustauschprogramme Partnerschaften mit vielen französischsprachigen Universitäten. Diese Partnerschaften bieten Iaşi-Studenten die Möglichkeit, ein Semester oder ein akademisches Jahr in einem französischsprachigen Land zu verbringen und so ihre akademische Erfahrung und ihr interkulturelles Verständnis zu bereichern.",
+
+    "french_name" : "Iasi",
+    "french_description" : "L'Université Alexandru Ioan Cuza de Iaşi propose des programmes académiques en français dans divers domaines d'études, ainsi que des cours de français pour les étudiants et les membres du public, intéressés par l'apprentissage de la langue. L'Université Alexandru Ioan Cuza entretient des partenariats avec de nombreuses universités francophones dans le cadre de programmes d'échange étudiant. Ces partenariats offrent aux étudiants de Iaşi la possibilité de passer un semestre ou une année académique dans un pays francophone, enrichissant ainsi leur expérience universitaire et leur compréhension interculturelle. "
+}

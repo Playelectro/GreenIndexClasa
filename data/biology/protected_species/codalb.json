@@ -1,0 +1,19 @@
+{ 
+
+"name": "Codalbul (Haliaeetus albicilla)", 
+
+"location": [[45.175149, 29.388747]], 
+
+"description": "Este o specie de pasăre răpitoare de talie mare, ușor de recunoscut după silueta impunătoare, cu aripi lungi și rotunjite interior, primare \"digitale\" bine definite, coada ușor romboidală și ciocul masiv. Sexele sunt asemănătoare, femela fiind relativ mai mare. Ajunge la penajul de adult începând cu al cincilea an din viață. Adulții au penajul de corp și aripile de culoare maronie, gâtul și capul de culoare galben-maronie, coada complet albă și ciocul galben.", 
+
+"status": "Risc Scăzut", 
+"type":"Animal",
+
+"images": "static/images/Coldalb.jpg",
+"german_name" : "Seeadler (Haliaeetus albicilla)",
+"german_description" : "Es ist eine Art von Raubvogel von großer Größe, leicht zu erkennen an der imposanten Silhouette, mit langen und abgerundeten Flügeln, gut definierten 'digitalen' Handschwingen, leicht rhombischem Schwanz und massivem Schnabel. Die Geschlechter sind ähnlich, wobei das Weibchen relativ größer ist. Das Erwachsenengefieder wird ab dem fünften Lebensjahr erreicht. Erwachsene haben braunes Körpergefieder und Flügel, gelb-braunen Hals und Kopf, komplett weißen Schwanz und gelben Schnabel.",
+
+"french_name" : "Pygargue à queue blanche (Haliaeetus albicilla)",
+"french_description" : "C'est une espèce de grand rapace, facilement reconnaissable par sa silhouette imposante, avec de longues ailes arrondies à l'intérieur, des primaires bien définies, une queue légèrement en losange et un bec massif. Les sexes sont similaires, la femelle étant relativement plus grande. Il atteint le plumage adulte à partir de sa cinquième année de vie. Les adultes ont un plumage corporel et des ailes brunâtres, un cou et une tête jaune-brun, une queue entièrement blanche et un bec jaune." 
+
+}

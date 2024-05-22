@@ -3,9 +3,10 @@
     "location" : [[46.41397147257639, 25.299456507160546]],
     "description" : "Subcarpații Transilvaniei reprezintă o subdiviziune a Depresiunii colinare a Transilvaniei, fiind o succesiune de depresiuni și dealuri situate în partea de est a acesteia , la contactul ei cu Carpații Orientali. Denumirea provine de la caracteristicile reliefului, care este asemanator Subcarpaților. În nord și sud sunt limitați de văile râurilor Mureș și respectiv Olt, în est de munții Munții Gurghiu și Harghita, în nord-vest de Dealurile Bistriței și la vest de Podișul Transilvaniei. ",
     "images" : "/static/images/subcarpatii_transilvaniei/subcarpatii_transilvaniei.jpg",
-    "german_name" : "Kaprenburch",
-    "german_description" : "Die Kaprenburch ist am besten",
+  
+    "german_name" : "Karpatenvorland von Siebenbürgen",
+    "german_description" : "Die Karpatenvorland Siebenbürgens stellen eine Unterteilung der Hügelsenke Siebenbürgens dar und sind eine Abfolge von Senken und Hügeln, die sich in ihrem östlichen Teil an der Kontaktstelle zu den Ostkarpaten befinden. Der Name leitet sich von den Merkmalen des Reliefs ab, das dem Karpatenvorland ähnelt. Im Norden und Süden werden sie durch die Täler der Flüsse Mureș bzw. Olt, im Osten durch die Berge Gurghiu und Harghita, im Nordwesten durch die Bistriței-Hügel und im Westen durch die Siebenbürgische Hochebene begrenzt.",
 
-    "french_name" : "Le Caprcoise",
-    "french_description" : "Le Capricoise e tu un abeli' sdaddddasdasd"
+    "french_name" : "Basses-Carpates de Transylvanie",
+    "french_description" : "Les Basses-Carpates de Transylvanie représentent une subdivision de la dépression vallonnée de Transylvanie, étant une succession de dépressions et de collines situées dans sa partie orientale, à son contact avec les Carpates orientales. Le nom vient des caractéristiques du relief, semblable à celui des Basses-Carpates. Au nord et au sud, ils sont délimités respectivement par les vallées des rivières Mureș et Olt, à l'est par les montagnes Gurghiu et Harghita, au nord-ouest par les collines Bistriței et à l'ouest par le plateau de Transylvanie."
 }

@@ -1,0 +1,22 @@
+ 
+
+{ 
+
+"name" : "Marmotă alpină (Marmota)" ,
+
+"location" : [[45.604791320417526, 24.62696394563238]], 
+
+"description" : "Marmotele sunt un gen de mamifere rozătoare plantigrade galericole din familia sciuride (Sciuridae) de talie relativ mare (30-60 cm lungime și o greutate de 3-7,5 kg), cu corp greoi, membre scurte, coada ușor comprimată și acoperită de peri lungi. Au un cap masiv, urechile mici și rotunjite. Grosimea blănii lor este influențată de condițiile climatice, iar culoarea variază după specie, de la cafeniu-gălbui, la cafeniu-roșcat sau cafeniu închis pe spate și flancuri.", 
+
+"status" : "Risc Scăzut", 
+
+"type" : "Animal", 
+
+"images" : "static/images/marmota_alpina.jpg",
+"german_name" : "Alpenmurmeltier (Marmota)",
+"german_description" : "Die Murmeltiere sind eine Gattung von galérigen pflanzenfressenden Nagetieren aus der Familie der Hörnchen (Sciuridae) mit relativ großer Größe (30-60 cm Länge und einem Gewicht von 3-7,5 kg), mit massivem Körper, kurzen Gliedmaßen, einem leicht zusammengedrückten Schwanz und langem Fell bedeckt. Sie haben einen massiven Kopf, kleine und abgerundete Ohren. Die Dicke ihres Fells wird von den klimatischen Bedingungen beeinflusst, und die Farbe variiert je nach Art von hellbraun-gelblich bis zu rotbraun oder dunkelbraun auf dem Rücken und den Flanken.",
+
+"french_name" : "Marmotte des Alpes (Marmota)",
+"french_description" : "Les marmottes sont un genre de mammifères rongeurs plantigrades galériques de la famille des sciuridés (Sciuridae), de taille relativement grande (30 à 60 cm de longueur et un poids de 3 à 7,5 kg), avec un corps massif, des membres courts, une queue légèrement comprimée et recouverte de poils longs. Elles ont une tête massive, de petites oreilles rondes. L'épaisseur de leur pelage est influencée par les conditions climatiques, et la couleur varie selon l'espèce, allant du brun jaunâtre au brun rougeâtre ou brun foncé sur le dos et les flancs." 
+
+} 

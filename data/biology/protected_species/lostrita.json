@@ -1,14 +1,20 @@
-{
-    "name" : "Lostrita",
-    "location" : [[45.12164 ,24.12547]],
-    "description" : "Lostrița (Hucho hucho) este un pește răpitor dulcicol, din familia salmonide (Salmonidae), din apele mari curgătoare de munte cu fund pietros din bazinul hidrografic al Dunării. Este o specie endemică în bazinul dunărean. În România este pe cale de dispariție, din cauză pescuitului, pentru care motiv lostrița este pusă sub protecția legii și se pescuiește numai cu autorizație specială. Are o valoare economică ridicată.",
-    "status" : "In pericol",
-    "type" : "Fish",
-    "images" : "/static/images/lostrita/1.jpg",
+{ 
 
-    "german_name" : "Der Otter",
-    "german_description" : "Die Donaulachsforelle (Hucho hucho) ist ein Raubfisch aus der Familie der Lachsfische (Salmonidae), der in den großen Bergflüssen mit steinigem Grund im Einzugsgebiet der Donau lebt. Es ist eine endemische Art des Donaugebiets. In Rumänien ist sie aufgrund des Fischfangs vom Aussterben bedroht, weshalb der Donaulachsforelle gesetzlich geschützt ist und nur mit besonderer Genehmigung gefischt werden darf. Sie hat einen hohen wirtschaftlichen Wert.",
+    "name" : "Lostrița (Hucho hucho)" ,
 
-    "french_name" : "La loutre",
-    "french_description" : "La truite de mer (Hucho hucho) est un poisson prédateur d'eau douce, de la famille des salmonidés (Salmonidae), vivant dans les grandes rivières de montagne aux fonds rocheux du bassin hydrographique du Danube. C'est une espèce endémique du bassin du Danube. En Roumanie, elle est en voie de disparition en raison de la pêche, pour laquelle la truite de mer est protégée par la loi et ne peut être pêchée que sous autorisation spéciale. Elle a une grande valeur économique."
-}
+    "location" : [[45.178591270550285, 29.2484439655328]], 
+
+    "description" : "Lostrița este un pește răpitor dulcicol, din familia salmonide (Salmonidae), din apele mari curgătoare de munte cu fund pietros din bazinul hidrografic al Dunării. Este o specie endemică în bazinul dunărean. În România este pe cale de dispariție, din cauză pescuitului, pentru care motiv lostrița este pusă sub protecția legii și se pescuiește numai cu autorizație specială. Are o valoare economică ridicată.", 
+
+    "status" : "În pericol", 
+
+    "type" : "Fish", 
+
+    "images" : "static/images/lostrita.jpg",
+    "german_name" : "Huchen",
+    "german_description" : "Die Huchen ist ein Raubfisch aus der Familie der Lachsfische (Salmonidae), der in den schnell fließenden Berggewässern des Donaueinzugsgebiets mit steinigem Grund lebt. Es ist eine endemische Art im Donaubecken. In Rumänien ist sie vom Aussterben bedroht, hauptsächlich aufgrund übermäßiger Fischerei, weshalb der Huchen gesetzlich geschützt ist und nur mit spezieller Erlaubnis gefischt werden darf. Sie hat einen hohen wirtschaftlichen Wert.",
+
+    "french_name" : "Huchon",
+    "french_description" : "Le Huchon est un poisson prédateur d'eau douce de la famille des salmonidés (Salmonidae), vivant dans les eaux vives des montagnes avec un fond pierreux du bassin hydrographique du Danube. C'est une espèce endémique du bassin du Danube. En Roumanie, il est en voie de disparition en raison de la pêche excessive, ce qui le place sous la protection de la loi et ne peut être pêché qu'avec une autorisation spéciale. Il a une valeur économique élevée." 
+
+} 

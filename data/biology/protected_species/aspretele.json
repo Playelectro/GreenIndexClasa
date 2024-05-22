@@ -1,0 +1,20 @@
+{ 
+
+    "name" : "Aspretele (Romanichtys valsanicola)" ,
+
+    "location" : [[45.09351929013525, 24.790632821251453]], 
+
+    "description" : "Aspretele este un pește descoperit în 1957 și care mai trăiește astăzi doar într-o zonă foarte restrânsă, pe râul Vâlsan (județul Argeș), în amonte de stațiune Brăduleț. Cu zeci de ani în urmă, în perioada de construcție a hidorcentralei de pe Argeș, peștele aproape a dispărut. Atenția deosebită care i s-a acordat de către specialiști a făcut ca, treptat, după stabilizarea apelor Argeșului, această specie foarte rară de pește românesc să se refacă.", 
+
+    "status" : "Vulnerabil", 
+
+    "type" : "Fish", 
+
+    "images" : "static/images/aspretele.jpg",
+    "german_name" : "Groppenbarsch (Romanichthys valsanicola)",
+    "german_description" : "Der Groppenbarsch ist ein Fisch, der 1957 entdeckt wurde und heute nur noch in einem sehr begrenzten Gebiet lebt, am Fluss Vâlsan (Kreis Argeș), oberhalb des Ortes Brăduleț. Vor Jahrzehnten, während des Baus des Wasserkraftwerks am Argeș, war der Fisch fast verschwunden. Die besondere Aufmerksamkeit, die ihm von Fachleuten geschenkt wurde, hat dazu geführt, dass sich diese sehr seltene Art rumänischer Fische nach und nach nach Stabilisierung der Argeș-Wasser wieder erholt hat.",
+
+    "french_name" : "l'aspre (Romanichthys valsanicola)",
+    "french_description" : "L'aspre est un poisson découvert en 1957 et qui vit aujourd'hui uniquement dans une zone très restreinte, sur la rivière Vâlsan (département d'Argeș), en amont de la station de Brăduleț. Il y a plusieurs décennies, pendant la construction de la centrale hydroélectrique de l'Argeș, le poisson a presque disparu. L'attention particulière accordée par les spécialistes a permis, progressivement, après la stabilisation des eaux de l'Argeș, à cette espèce de poisson roumain très rare de se rétablir."
+
+} 

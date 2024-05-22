@@ -1,0 +1,17 @@
+{ 
+
+ 
+
+"name": "Rezervația Naturală Cheile Turului",  
+
+"location": [[45.2333, 25.5500]], 
+
+"description": "Rezervația Naturală Cheile Turului este situată în Munții Buzăului și este cunoscută pentru cheile sale adânci, stâncile calcaroase și peisajele sălbatice. Aici se găsesc numeroase specii de plante și animale protejate.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/rn_cheile_turului.png" 
+
+ 
+
+} 

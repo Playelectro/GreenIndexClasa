@@ -1,0 +1,15 @@
+{ 
+
+ 
+
+"name": "Rezervația Naturală Putna-Vrancea",  
+
+"location": [[45.9333, 26.9000]],  
+
+"description": "Rezervația Naturală Putna-Vrancea este situată în partea central-estică a țării și este cunoscută pentru pădurile sale virgine de fag și speciile sale rare de animale, precum ursul brun și lupul.",  
+
+"status": "Stare stabilă",
+
+"images" : "static/images/rn_putna.png" 
+
+} 

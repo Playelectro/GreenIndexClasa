@@ -1,0 +1,20 @@
+{ 
+
+    "name" : "Liliacul (Corynorhinus townsendii)" ,
+
+    "location" : [[45.507657872030244, 25.292325865955252]], 
+
+    "description" : "Liliecii sunt mamifere din ordinul Chiroptera; cu membrele anterioare adaptate ca aripi, acestea sunt singurele mamifere capabile în mod natural de zbor real și susținut. Liliecii manevrează mai abil decât păsările, zburând cu degetele lor foarte larg desfăcute, acoperite cu o membrană subțire, sau patagiu.", 
+
+    "status" : "Risc Scăzut", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/liliac.jpg",
+    "german_name" : "Die Townsend Fledermaus (Corynorhinus townsendii)",
+    "german_description" : "Die Fledermäuse sind Säugetiere aus der Ordnung der Fledertiere; mit den vorderen Gliedmaßen, die als Flügel angepasst sind, sind sie die einzigen Säugetiere, die natürlich zu echtem und anhaltendem Flug fähig sind. Fledermäuse manövrieren geschickter als Vögel, indem sie mit ihren sehr weit geöffneten Fingern fliegen, die mit einer dünnen Membran oder einem Flughaut bedeckt sind.",
+
+    "french_name" : "L'Oreillard de Townsend (Corynorhinus townsendii)",
+    "french_description" : "Les chauves-souris sont des mammifères de l'ordre des Chiroptères ; avec les membres antérieurs adaptés en ailes, ce sont les seuls mammifères capables de vol réel et soutenu naturellement. Les chauves-souris manœuvrent plus habilement que les oiseaux, volant avec leurs doigts très largement ouverts, couverts d'une membrane mince ou patagium." 
+
+} 

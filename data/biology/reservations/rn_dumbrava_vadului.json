@@ -1,0 +1,15 @@
+{ 
+
+ 
+
+"name": "Rezervația Naturală Dumbrava Vadului",  
+
+"location": [[45.9822, 24.0778]],  
+
+"description": "Rezervația Naturală Dumbrava Vadului este situată în Munții Gurghiului și este cunoscută pentru pădurile sale de fag și gorun, peisajele pitorești și biodiversitatea sa bogată.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/rn_dumbrava_vadului.png" 
+
+} 

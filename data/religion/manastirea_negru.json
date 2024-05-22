@@ -2,5 +2,12 @@
     "name" : "Mănăstirea Negru Vodă",
     "location" : [[45.26400214213131, 25.040096656100356]],
     "description" : "Manastirea Negru Voda este un lăcaș de cult ortodox situat în munții Făgăraș, la aproximativ 30 de kilometri de orașul Făgăraș din județul Brașov, România. Așezată într-un peisaj muntos spectaculos, manastirea este dedicată Sfântului Nicolae. Construită în secolul al XVI-lea și restaurată în secolul al XVIII-lea, manastirea este renumită pentru arhitectura sa tradițională și pentru picturile murale care împodobesc biserica. Este un loc de pelerinaj important pentru credincioși și vizitatori datorită frumuseții sale naturale și a atmosferei liniștite și spirituale pe care o oferă. ",
-    "images" : "/static/images/manastirea_negru/manastirea_negru.jpg"
+    "images" : "/static/images/manastirea_negru/manastirea_negru.jpg",
+    "german_name" : "Kloster Negru Voda",
+    "german_description" : "Das Kloster Negru Voda ist eine orthodoxe Kultstätte im Făgăraș-Gebirge, etwa 30 Kilometer von der Stadt Făgăraș im Kreis Brașov, Rumänien entfernt. Das Kloster liegt in einer spektakulären Berglandschaft und ist dem Heiligen Nikolaus gewidmet. Das im 16. Jahrhundert erbaute und im 18. Jahrhundert restaurierte Kloster ist berühmt für seine traditionelle Architektur und die Wandgemälde, die die Kirche schmücken. Aufgrund seiner natürlichen Schönheit und der friedlichen und spirituellen Atmosphäre ist es ein wichtiger Wallfahrtsort für Anhänger und Besucher.",
+
+    "french_name" : "Monastère de Negru Voda",
+    "french_description" : "Le monastère de Negru Voda est un lieu de culte orthodoxe situé dans les montagnes de Făgăraș, à environ 30 kilomètres de la ville de Făgăraș dans le comté de Brașov, en Roumanie. Situé dans un paysage montagneux spectaculaire, le monastère est dédié à Saint-Nicolas. Construit au XVIe siècle et restauré au XVIIIe siècle, le monastère est célèbre pour son architecture traditionnelle et les peintures murales qui ornent l'église. C'est un lieu de pèlerinage important pour les fidèles et les visiteurs en raison de sa beauté naturelle et de l'atmosphère paisible et spirituelle qu'il offre."
+
+
 }

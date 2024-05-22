@@ -1,0 +1,19 @@
+{ 
+
+"name": "Dumbrăveanca (Coracias garrulus)", 
+
+"location": [[43.843891, 25.515671]], 
+
+"description": "Specie de pasăre de talie medie, cu un colorit spectaculos, inconfundabil. Sexele sunt asemănătoare. Capul, aripile și abdomenul sunt albastru deschis, cu tentă verzuie. Spatele este maroniu-roșiatic.", 
+
+"status": "Risc Scăzut", 
+"type":"Animal",
+
+"images": "static/images/Dumbraveanca.jpg",
+"german_name" : "Die Scharlachspint (Coracias garrulus)",
+"german_description" : "Artengleiche Vogelart mittlerer Größe mit spektakulärer, unverwechselbarer Färbung. Die Geschlechter ähneln sich. Kopf, Flügel und Bauch sind hellblau mit einem grünlichen Schimmer. Der Rücken ist rotbraun.",
+
+"french_name" : "Le Rollier d'Europe (Coracias garrulus)",
+"french_description" : "Espèce d'oiseau de taille moyenne, au plumage spectaculaire et inimitable. Les sexes se ressemblent. La tête, les ailes et l'abdomen sont d'un bleu clair avec une nuance verdâtre. Le dos est rougeâtre brunâtre." 
+
+}

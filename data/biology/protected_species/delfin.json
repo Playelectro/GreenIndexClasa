@@ -1,0 +1,20 @@
+{ 
+
+    "name" : "Delfin (Tursiops truncatus)" ,
+
+    "location" : [[44.495988362583134, 29.758892638901717]], 
+
+    "description" : "Delfinii sunt răspândiți în întreaga lume, în special în apele puțin adânci din zonele de coastă. Sunt animale carnivore, hrănindu-se cu pește și calmari. Singurele trei specii de delfin care pătrund în Marea Neagră sunt marsuinul, focena sau porcul de mare, afalinul sau delfinul mare sau delfinul cu bot gros și delfinul comun.", 
+
+    "status" : "Risc Scăzut", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/delfin.jpg",
+    "german_name" : "Großer Tümmler (Tursiops truncatus)",
+    "german_description" : "Delfine sind weltweit verbreitet, besonders in den flachen Gewässern der Küstenregionen. Sie sind Fleischfresser und ernähren sich von Fischen und Tintenfischen. Die einzigen drei Delfinarten, die ins Schwarze Meer eindringen, sind der Zwergwal, der Schweinswal oder der Meerschweinchen, der Rundkopfdelfin oder Große Tümmler und der Gemeine Delfin.",
+
+    "french_name" : "Dauphin commun (Tursiops truncatus)",
+    "french_description" : "Les dauphins sont répandus dans le monde entier, en particulier dans les eaux peu profondes des zones côtières. Ce sont des animaux carnivores se nourrissant de poissons et de calmars. Les seules trois espèces de dauphins qui pénètrent dans la mer Noire sont le marsouin, le dauphin commun et le grand dauphin ou dauphin à gros museau." 
+
+} 

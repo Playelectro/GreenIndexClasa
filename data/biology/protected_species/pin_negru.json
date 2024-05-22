@@ -1,0 +1,13 @@
+{
+    "name": "Pin negru (Pinus nigra)",
+    "location": [[44.533892827575336, 23.749612391127386]],
+    "description": "Pinus nigra este răspândit din Spania până în ţinuturile pontice. Se află şi la noi în Oltenia şi Banat (var. banatica); în alte zone se plantează. Arbore de talia II, coroană larg-ovoidală. Frunze lungi de 15 cm, ciculare, prinse câte 2. Conuri de culoare deschisă.",
+    "status": "Risc scăzut",
+    "type": "Plant",
+    "images": "static/images/pin_negru1.jpeg",
+    "german_name" : "Der Schwarzkiefer (Pinus nigra)",
+    "german_description" : "Pinus nigra ist von Spanien bis in die Regionen des Schwarzen Meeres verbreitet. Es gibt ihn auch bei uns in der Region Oltenien und Banat (var. banatica); in anderen Gebieten wird er angepflanzt. Er ist ein Baum mittlerer Größe mit einer breit-ovalen Krone. Die Blätter sind 15 cm lang, zylindrisch und paarweise angeordnet. Die Zapfen sind hellfarben.",
+
+    "french_name" : "Le pin noir (Pinus nigra)",
+    "french_description" : "Pinus nigra est répandu de l'Espagne jusqu'aux régions de la mer Noire. On le trouve également chez nous en Oltenie et au Banat (var. banatica); dans d'autres régions, il est planté. C'est un arbre de taille moyenne avec une couronne largement ovale. Les feuilles sont longues de 15 cm, cylindriques et disposées par paires. Les cônes sont de couleur claire."
+}

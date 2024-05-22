@@ -1,0 +1,13 @@
+{ 
+
+"name": "Rezervația Naturală Pădurea Craiului",  
+
+"location": [[45.5500, 22.9667]],  
+
+"description": "Rezervația Naturală Pădurea Craiului este situată în Munții Apuseni și este renumită pentru pădurile sale de fag și gorun, peisajele pitorești și biodiversitatea sa bogată.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/pn_padurea_craiului.png" 
+
+} 

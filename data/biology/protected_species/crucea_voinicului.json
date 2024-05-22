@@ -1,0 +1,15 @@
+{
+    "name" : " Crucea voinicului (Hepatica transsilvanica)",
+   "location" : [[45.704280639897895, 26.25887275342171]],
+   "description" : "Crucea voinicului este o plantă căreia îi priește la altitudinile înalte din Munții Carpați. Pentru a rezista frigului și vântului de acolo, Crucea voinicului are niște rădăcini bine fixate în sol. Crucea voinicului este o plantă pitică, având între 4 – 6 cm. De asemenea, stă înflorită din luna februarie, până în luna mai.",
+    "status" : "Risc Scăzut",
+    "type" : "Plant",
+    "images" : "static/images/crucea_voinicului1.jpg",
+
+    "german_name" : "Siebenbürgisches Leberblümchen (Hepatica transsilvanica)",
+    "german_description" : "Die Siebenbürgisches Leberblümchen ist eine Pflanze, die in den höheren Lagen der Karpaten gedeiht. Um der Kälte und dem Wind dort standzuhalten, hat die Siebenbürgisches Leberblümchen gut verankerte Wurzeln im Boden. Die Siebenbürgisches Leberblümchen ist eine Zwergpflanze und erreicht eine Größe von 4 bis 6 cm. Außerdem blüht sie von Februar bis Mai.",
+
+    "french_name" : "Anémone hépatique de Transylvanie (Hepatica transsilvanica)",
+    "french_description" : "La Anémone hépatique de Transylvanie est une plante qui prospère dans les hauteurs des monts Carpates. Pour résister au froid et au vent là-bas, la Anémone hépatique de Transylvanie a des racines bien ancrées dans le sol. C'est une plante naine, mesurant entre 4 et 6 cm de hauteur. De plus, elle fleurit de février à mai."
+  }
+  

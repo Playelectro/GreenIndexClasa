@@ -1,0 +1,13 @@
+{
+    "name": "Molidul argintiu (Picea pungens ‛Argentea’)",
+    "location": [],
+    "description": "Molidul argintiu este originară din părţile vestice ale Americii. Arborele  de  talia a II-a are coroană piramidală, frunze aciculare, dispuse radial, de culoare argintie și conuri pendule.",
+    "status": "Risc scăzut",
+    "type": "Plant",
+    "images": "static/images/molidul_argintiu1.jpeg",
+    "german_name" : "Blaufichte",
+    "german_description" : "Der Blaufichte (Picea pungens 'Argentea') stammt aus dem Westen Amerikas. Der Baum mittlerer Größe hat eine pyramidenförmige Krone, nadelartige Blätter, die radial angeordnet sind und silbergrau sind, sowie hängende Zapfen.",
+
+    "french_name" : "Épicéa bleu",
+    "french_description" : "Le Épicéa bleu (Picea pungens 'Argentea') est originaire de l'ouest de l'Amérique. Cet arbre de taille moyenne a une couronne pyramidale, des feuilles aciculaires disposées radialement de couleur argentée, et des cônes pendulaires."
+}

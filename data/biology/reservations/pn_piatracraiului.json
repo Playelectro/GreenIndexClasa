@@ -1,0 +1,15 @@
+{ 
+
+ 
+
+"name": "Parcul Național Piatra Craiului",  
+
+"location": [[45.5167, 25.3500]],  
+
+"description": "Parcul Național Piatra Craiului este celebru pentru masivele calcaroase, peisajele pitorești și biodiversitatea sa remarcabilă, care include numeroase specii de plante și animale protejate de lege.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/pn_piatra_craiului.png" 
+
+} 

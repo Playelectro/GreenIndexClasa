@@ -1,0 +1,17 @@
+{ 
+
+ 
+
+"name": "Rezervația Naturală Cheile Dobrogei",  
+
+"location": [[44.2222, 28.4328]],  
+
+"description": "Rezervația Naturală Cheile Dobrogei este situată în partea de sud-est a României și este renumită pentru formațiunile stâncoase impresionante, peisajele semiaride și biodiversitatea sa unică.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/rn_cheile_dobrogei.png" 
+
+ 
+
+} 

@@ -1,0 +1,14 @@
+{
+    "name" : "Nufărul termal (Nymphaea lotus var. thermalis)",
+   "location" : [[46.99652932271228, 22.002594290297395]],
+   "description" : "Nymphaea lotus var. thermalis (Lotus termal), este o specie de nufăr endemică pentru zona băilor „1 Mai” România. Mai este cunoscut ca nufărul termal sau floarea de lotus. Această specie trăiește în apele pârâului Peța, din apropierea băilor „1 Mai” de lângă Oradea. Caracteristica apelor pârâului este temperatura crescută (ape termale). Specia a fost descoperită în anul 1789 de botanistul Pál Kitaibel.",
+    "status" : "Risc Scăzut",
+    "type" : "Plant",
+    "images" : "static/images/nufar_termal1.jpeg",
+    "german_name" : "Der Thermalwasser Lotus(Nymphaea lotus var. thermalis)",
+    "german_description" : "Nymphaea lotus var. thermalis (Thermal-Lotus) ist eine endemische Seerosenart aus dem Bereich der Bäder '1 Mai; in Rumänien. Er ist auch als Thermal-Seerose oder Lotusblume bekannt. Diese Art lebt in den Gewässern des Baches Peța, in der Nähe der '1 Mai'-Bäder in der Nähe von Oradea. Ein charakteristisches Merkmal des Gewässers ist die erhöhte Temperatur (Thermalwasser). Die Art wurde im Jahr 1789 vom Botaniker Pál Kitaibel entdeckt.",
+
+    "french_name" : "Le nénuphar thermal (Nymphaea lotus var. thermalis)",
+    "french_description" : "Nymphaea lotus var. thermalis (Lotus thermal) est une espèce de nénuphar endémique de la région des bains '1 Mai' en Roumanie. Il est également connu sous le nom de nénuphar thermal ou fleur de lotus. Cette espèce vit dans les eaux du ruisseau Peța, près des bains '1 Mai' près d'Oradea. La caractéristique de ces eaux de ruisseau est leur température élevée (eaux thermales). L'espèce a été découverte en 1789 par le botaniste Pál Kitaibel."
+  }
+  

@@ -1,0 +1,19 @@
+{ 
+
+        "name": "Lopătar (Platalea leucorodia)", 
+
+        "location": [[44.627764, 27.383851]], 
+
+        "description": "Este o specie de pasăre de talie mare. Sexele au colorit identic. Penajul este alb, iar în perioada de reproducere, la baza gâtului (un inel) și sub bărbie capătă nuanțe galbene intens. Ciocul este lung, negru și lat, cu aspect inconfundabil (de lingură/lopată). Vârful ciocului este de asemenea gălbui, intens în perioada de reproducere.", 
+
+        "status": "Risc Scăzut", 
+        "type":"Animal",
+
+        "images": "static/images/Lopatar.jpg",
+        "german_name" : "Löffler (Platalea leucorodia)",
+        "german_description" : "Es handelt sich um eine Vogelart von großer Größe. Die Geschlechter haben die gleiche Färbung. Das Gefieder ist weiß, während der Brutzeit nimmt es am Halsansatz (einen Ring) und unter dem Kinn intensive gelbe Nuancen an. Der Schnabel ist lang, schwarz und breit, mit einem unverwechselbaren Aussehen (wie ein Löffel/Schaufel). Die Schnabelspitze ist ebenfalls gelblich, besonders während der Brutzeit.",
+    
+        "french_name" : "Loucheron (Platalea leucorodia)",
+        "french_description" : "C'est une espèce d'oiseau de grande taille. Les sexes ont un plumage identique. Le plumage est blanc, et pendant la période de reproduction, à la base du cou (un anneau) et sous le menton, il prend des teintes jaunes intenses. Le bec est long, noir et large, avec un aspect distinctif de cuillère/pelle. Le bout du bec est également jaunâtre, plus intense pendant la période de reproduction." 
+
+    } 

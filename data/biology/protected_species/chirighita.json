@@ -1,0 +1,19 @@
+{ 
+
+"name": "Chirighiță cu obraji albi (Chlidonias hybrida)", 
+
+"location": [[45.065490, 29.268117]], 
+
+"description": "Este o specie de chiră de talie mică - medie, cu aripile mai rotunjite și coada scurtă și ușor bifurcată. Penajul general este de culoare alb-cenușiu cu pieptul și abdomenul cenușiu închis, în contrast cu aripile și coada care sunt mai deschise la culoare. La adulții în penaj de vară, partea dorsală a capului este neagră, contrastând cu obrajii de culoare albă.", 
+
+"status": "Risc Scăzut", 
+"type":"Animal",
+
+"images": "static/images/Chirighita_Cu_Obraz_Alb.jpg",
+"german_name" : "Weißbart-Seeschwalbe (Chlidonias hybrida)",
+"german_description" : "Es ist eine Art von mittelgroßen bis kleinen Seeschwalben, mit runderen Flügeln und einem kurzen, leicht gegabelten Schwanz. Das Federkleid ist im Allgemeinen weiß-grau mit einem dunkelgrauen Bauch und Brust, im Gegensatz zu den helleren Flügeln und dem Schwanz. Bei erwachsenen Vögeln im Sommerkleid ist der obere Teil des Kopfes schwarz, was im Kontrast zu den weißen Wangen steht.",
+
+"french_name" : "Guifette moustac (Chlidonias hybrida)",
+"french_description" : "C'est une espèce de sternes de taille petite à moyenne, avec des ailes plus arrondies et une queue courte et légèrement bifurquée. Le plumage général est de couleur blanc-gris avec le ventre et la poitrine d'un gris foncé, en contraste avec les ailes et la queue qui sont plus claires. Chez les adultes en plumage estival, le dessus de la tête est noir, contrastant avec les joues blanches." 
+
+}

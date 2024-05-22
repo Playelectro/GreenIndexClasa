@@ -1,0 +1,22 @@
+ 
+
+{ 
+
+"name" : "Popândău european (Spermophilus citellus)",
+
+"location" : [[44.048875430280816, 25.67680761590575]], 
+
+"description" : "Popândăul este o specie endemică a continentului, și un element stepic al faunei europene de mamifere. Trăiește în Palearctica de Vest, fiind singura specie din cele 13 al acestui gen care populează regiuni aflate la vest de Marea Neagră. În secolul 20, limitele arealului popândăului erau: la vest Boemia, la est Marea Neagră, la nord estul Germaniei și sudul Poloniei iar la sud Salonic și Grecia. Specia prezintă o distribuție disjunctă, separată de către Carpați și Canionul Djerdap al Dunării. În România, ca și în majoritatea țărilor din arealul său, popândăul beneficiază de statut legal de protecție favorabil.", 
+
+"status" : "Vulnerabil", 
+
+"type" : "Animal", 
+
+"images" : "static/images/popandau.jpg",
+"german_name" : "Europäischer Ziesel (Spermophilus citellus)",
+"german_description" : "Das Europäische Ziesel ist eine endemische Art des Kontinents und ein typisches Steppenelement der europäischen Säugetierfauna. Es lebt in Westpalaearktis und ist die einzige Art von 13 in diesem Genus, die Regionen westlich des Schwarzen Meeres bewohnt. Im 20. Jahrhundert lagen die Verbreitungsgrenzen des Ziesels westlich in Böhmen, östlich am Schwarzen Meer, im Nordosten Deutschlands und im Süden Polens und südlich in Thessaloniki und Griechenland. Die Art hat eine disjunkte Verbreitung, getrennt durch die Karpaten und die Djerdap-Schlucht der Donau. In Rumänien, wie in den meisten Ländern seines Verbreitungsgebiets, genießt das Ziesel einen rechtlichen Schutzstatus.",
+
+"french_name" : "Spermophile d'Europe (Spermophilus citellus)",
+"french_description" : "Le Spermophile est une espèce endémique du continent, et un élément typique de la faune steppe de mammifères européens. Il vit dans la partie ouest de la Paléarctique, étant la seule espèce parmi les 13 de ce genre à peupler des régions à l'ouest de la mer Noire. Au 20e siècle, les limites de l'aire de répartition du spermophile étaient : à l'ouest la Bohême, à l'est la mer Noire, au nord-est l'Allemagne et le sud de la Pologne, et au sud Thessalonique et la Grèce. L'espèce présente une distribution disjointe, séparée par les Carpates et les gorges du Danube du Djerdap. En Roumanie, comme dans la plupart des pays de son aire de répartition, le spermophile bénéficie d'un statut légal de protection favorable." 
+
+} 

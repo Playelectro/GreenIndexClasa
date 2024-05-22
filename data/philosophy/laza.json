@@ -1,0 +1,7 @@
+{
+    "name" : "Capra Neagra",
+    "location" : [[46.772198, 0.7]],
+    "description" : "laza si armean de test",
+    "type" : "Animal",
+    "images" : "/static/images/black_goat"
+}

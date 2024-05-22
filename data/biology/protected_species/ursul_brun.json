@@ -1,0 +1,19 @@
+{
+"name" : "Ursul Brun (Ursus arctos)" ,
+
+"location" : [[45.6007147979132, 24.732772418650143]], 
+
+"description" : "Ursul brun este unul dintre cei mai mari membri tereștri în viață din ordinul Carnivora. Adulții diferitelor subspecii variază în greutate de la 80 până la 600 kg, masculii fiind mai grei decât femelele. În ciuda denumirii lor, urșii bruni nu sunt în întregime bruni; blana poate fi de culoare roșiatică până la brună-gălbenie și brună închis până la crem. ", 
+
+"status" : "Risc Scăzut", 
+
+"type" : "Animal", 
+
+"images" : "static/images/ursul_brun.jpg",
+"german_name" : "Der Braunbär",
+"german_description" : "Der Braunbär ist eines der größten lebenden Landtiere aus der Ordnung Carnivora. Die erwachsenen Tiere der verschiedenen Unterarten wiegen zwischen 80 und 600 kg, wobei die Männchen schwerer als die Weibchen sind. Trotz ihres Namens sind Braunbären nicht vollständig braun; ihr Fell kann von rötlich über braun-gelblich bis dunkelbraun oder cremefarben sein.",
+
+"french_name" : "Ours brun (Ursus arctos)",
+"french_description" : "L'ours brun est l'un des plus grands membres terrestres vivants de l'ordre des Carnivora. Les adultes des différentes sous-espèces varient en poids de 80 à 600 kg, les mâles étant plus lourds que les femelles. Malgré leur nom, les ours bruns ne sont pas entièrement bruns ; leur pelage peut être de couleur rougeâtre à brun jaunâtre et brun foncé à crème." 
+
+} 

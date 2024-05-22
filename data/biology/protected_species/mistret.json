@@ -1,0 +1,22 @@
+ 
+
+{ 
+
+"name" : "Mistrețul (Sus scrofa)" ,
+
+"location" : [[44.877434420620354, 29.559953961107134]], 
+
+"description" : " Mistrețul este un mamifer sălbatic omnivor, în general nocturn. Aria sa de răspândire cuprinde întreaga Europă. În România populează pădurile, începând cu Delta și Lunca Dunării, până în desișurile Carpaților. Este colorat negru - cafeniu. Scoate sunete foarte asemănătoare celor ale porcilor domestici. Colindă în turmă pădurile și culturile agricole de la marginea acestora. Animal robust, poate avea lungime de maximum doi metri masculul, respectiv 1,5 m femela. Greutatea vierilor (solitari, masculi bătrâni) este, în general, între 200-300 kg. În timpul perioadei de împerechere poate pierde până la 20% din greutate. După o iarnă deosebit de grea, un individ determinat ar putea cântări doar 50-70% din greutatea avută în toamnă.", 
+
+"status" : "Risc Scăzut", 
+
+"type" : "Animal", 
+
+"images" : "static/images/mistret.jpg",
+"german_name" : "Wildschwein",
+"german_description" : "Der Wildschwein ist ein omnivores, nachtaktives Wildtier. Sein Verbreitungsgebiet erstreckt sich über ganz Europa. In Rumänien bewohnt es die Wälder, beginnend vom Delta und den Donauauen bis hin zu den dichten Wäldern der Karpaten. Es ist schwarz-braun gefärbt und gibt Geräusche von sich, die denen von Hausschweinen sehr ähnlich sind. Es durchstreift in Herden die Wälder und landwirtschaftlichen Felder am Rand. Als robustes Tier kann ein männliches Wildschwein eine Länge von bis zu zwei Metern erreichen, während Weibchen etwa 1,5 Meter lang werden können. Die Gewicht von einzelnen Wildschweinen, insbesondere von alten männlichen Tieren, liegt in der Regel zwischen 200 und 300 Kilogramm. Während der Paarungszeit können sie bis zu 20% ihres Gewichts verlieren. Nach einem besonders harten Winter kann ein bestimmtes Individuum nur noch 50-70% seines Herbstgewichts wiegen.",
+
+"french_name" : "Sanglier",
+"french_description" : "Le sanglier est un mammifère sauvage omnivore, généralement nocturne. Sa zone de répartition comprend toute l'Europe. En Roumanie, il peuple les forêts, commençant par le Delta et les plaines inondables du Danube jusqu'aux forêts denses des Carpates. Il est de couleur noir-brun et émet des sons très similaires à ceux des porcs domestiques. Il parcourt en troupeau les forêts et les cultures agricoles en lisière de celles-ci. C'est un animal robuste, le mâle pouvant atteindre jusqu'à deux mètres de long, tandis que la femelle mesure environ 1,5 mètre. Le poids des sangliers solitaires, en particulier des vieux mâles, est généralement compris entre 200 et 300 kilogrammes. Pendant la période de reproduction, ils peuvent perdre jusqu'à 20 % de leur poids. Après un hiver particulièrement difficile, un individu déterminé pourrait ne peser que 50 à 70 % de son poids d'automne." 
+
+} 

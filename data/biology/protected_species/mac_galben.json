@@ -1,0 +1,14 @@
+{
+    "name" : "Macul galben (Papaver alpinuml)",
+   "location" : [[45.53585167121037, 25.217562408614278]],
+   "description" : " Macul galben crește prin pietrișuri calcaroase, fiind prezent în Munții Rodnei, Bucegi, Piatra Craiului și Godeanu. Tulpinile macului galben au între 6 – 15 cm, cu peri mici, iar în vârf se află floarea care are 4 petale late, de un galben puternic. Macul galben înflorește în lunile iulie și august.",
+    "status" : "Risc Scăzut",
+    "type" : "Plant",
+    "images" : "static/images/macul_galben1.jpeg",
+    "german_name" : "Alpen Mohn",
+    "german_description" : "Der Alpen-Mohn (Papaver alpinum) wächst in kalkhaltigen Kiesgebieten und ist in den Bergen Rodna, Bucegi, Piatra Craiului und Godeanu zu finden. Die Stängel des gelben Mohns sind zwischen 6 und 15 cm lang, mit kleinen Haaren bedeckt, und an der Spitze befindet sich eine Blüte mit 4 breiten, leuchtend gelben Blütenblättern. Der gelbe Mohn blüht im Juli und August. ",
+
+    "french_name" : "Pavot des Alpes",
+    "french_description" : "Le pavot jaune (Papaver alpinum) pousse dans les éboulis calcaires et est présent dans les montagnes des Rodnei, des Bucegi, de Piatra Craiului et de Godeanu. Les tiges du pavot jaune mesurent entre 6 et 15 cm, avec de petits poils, et au sommet se trouve une fleur avec 4 pétales larges, d'un jaune vif. Le pavot jaune fleurit en juillet et août."
+  }
+  

@@ -1,0 +1,22 @@
+{ 
+
+    "name" : "Vidra (Lutra lutra)",
+
+    "location" : [[45.26926382604862, 29.240631223604538]], 
+
+    "description" : "Are corpul lung și suplu, adaptat la viața acvatică, cu blana de culoare cafeniu-întunecat, cu peri moi, mătăsoși și strălucitori. Au mod de viaţă terestru şi acvatic, crepusculari şi nocturni. Pe sol se mişcă greoi, prin salturi pe distanţe scurte. Este excelentă înotătoare, iar pe sub apă înoată cu viteza de 10 -12 km/h, iar când este speriată, se scufundă pentru 3 – 4 minute. Preferă ţărmurile împădurite ale lacurilor, heleşteelor, râurilor şi ale oricăror cursuri de apă. Este activă noaptea, tot timpul anului. Este obiectiv de conservare în ROSCI0201 Podișul Nord Dobrogean și specie strict protejată.", 
+
+    "status" : "Vulnerabil", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/vidra.jpeg",
+    "german_name" : "Der Fischotter (Lutra lutra)",
+    "german_description" : "Sie haben einen langen und schlanken Körper, der an das Leben im Wasser angepasst ist, mit einem dunkelbraunen, weichen, seidigen und glänzenden Fell. Sie haben sowohl terrestrische als auch aquatische Lebensweisen und sind dämmerungs- und nachtaktiv. An Land bewegen sie sich schwerfällig, indem sie kurze Strecken springen. Sie sind ausgezeichnete Schwimmer und können unter Wasser mit einer Geschwindigkeit von 10-12 km/h schwimmen. Wenn sie erschreckt werden, tauchen sie für 3-4 Minuten unter. Sie bevorzugen bewaldete Ufer von Seen, Teichen, Flüssen und allen Arten von Gewässern. Sie sind das ganze Jahr über nachtaktiv. Sie sind ein Erhaltungsziel in ROSCI0201 Nord Dobrudscha-Plateau und eine streng geschützte Art.",
+
+    "french_name" : "La loutre (Lutra lutra)",
+    "french_description" : "Ils ont un corps long et élancé, adapté à la vie aquatique, avec un pelage brun foncé, doux, soyeux et brillant. Ils ont des modes de vie terrestres et aquatiques, sont crépusculaires et nocturnes. Sur terre, ils se déplacent lourdement, en faisant des sauts sur de courtes distances. Ils sont d'excellents nageurs et peuvent nager sous l'eau à une vitesse de 10 à 12 km/h, et lorsqu'ils sont effrayés, ils plongent pendant 3 à 4 minutes. Ils préfèrent les rives boisées des lacs, des étangs, des rivières et de tout cours d'eau. Ils sont actifs la nuit, toute l'année. Ils sont un objectif de conservation dans le ROSCI0201 Plateau Nord Dobrogean et une espèce strictement protégée." 
+
+} 
+
+ 

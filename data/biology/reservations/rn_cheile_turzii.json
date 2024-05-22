@@ -1,0 +1,17 @@
+{ 
+
+ 
+
+"name": "Rezervația Naturală Cheile Turzii",  
+
+"location": [[46.7125, 23.7786]],  
+
+"description": "Rezervația Naturală Cheile Turzii este renumită pentru formațiunile stâncoase impresionante, peșteri și păduri de stejar. Aici se găsesc numeroase specii de floră și faună, inclusiv lilieci și păsări rare.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/rn_cheile_turzii.png" 
+
+ 
+
+} 

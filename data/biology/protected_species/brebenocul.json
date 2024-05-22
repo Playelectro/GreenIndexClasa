@@ -1,0 +1,13 @@
+{
+    "name": "Brebenocul trandafiriu (Catharanthus roseus)",
+    "location": [],
+    "description": "Catharanthus roseus, cunoscută popular ca brebenocul de Madagascar sau brebenocul trandafiriu, este o specie de plantă cu flori ce aparține familiei Apocynaceae. Este endemică din Madagascar, însă este o specie cultivată și în alte zone în scopuri ornamentale și medicinale. Ca plantă medicinală, Catharanthus roseus este o sursă importantă de obținere a unor medicamente precum vincristina și vinblastina, utilizate în tratamentul unor forme de cancer.",
+    "status": "Vulnerabil",
+    "type": "Plant",
+    "images": "static/images/brebenoc.jpg",
+    "german_name" : "Rosiger Catharanthus",
+    "german_description" : "Catharanthus roseus, bekannt als Madagaskar-Immergrün oder Rosiger Catharanthus, ist eine blühende Pflanzenart aus der Familie der Hundsgiftgewächse (Apocynaceae). Sie ist endemisch in Madagaskar, wird aber auch in anderen Regionen zu Zierzwecken und für medizinische Zwecke angebaut. Als Heilpflanze ist Catharanthus roseus eine wichtige Quelle für die Herstellung von Medikamenten wie Vincristin und Vinblastin, die zur Behandlung einiger Krebsarten eingesetzt werden.",
+
+    "french_name" : "Pervenche rose (catharanthus roseus)",
+    "french_description" : "Catharanthus roseus, connue populairement sous le nom de pervenche de Madagascar ou de pervenche rose, est une espèce de plante à fleurs appartenant à la famille des Apocynacées. Originaire de Madagascar, elle est endémique de cette île, mais elle est également cultivée dans d'autres régions à des fins ornementales et médicinales. En tant que plante médicinale, Catharanthus roseus est une source importante de médicaments tels que la vincristine et la vinblastine, utilisés dans le traitement de certaines formes de cancer."
+}

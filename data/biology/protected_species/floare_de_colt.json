@@ -1,13 +1,14 @@
 {
-    "name" : "Floare de Colț",
-    "location" : [[47.5341593100891, 24.5559820401039]],
-    "description" : "(Leontopodium alpinum Cass.), numită și floarea-de-colț, este o specie de plantă erbacee, perenă, din genul Leontopodium Cass., familia Asteraceae.",
-    "status" : "Risc Scazut",
-    "type" : "Plant",
-    "images" : "static/images/floare_de_colt/1.jpg",
-    "german_name" : "Edelweiß",
-    "german_description" : "(Leontopodium alpinum Cass.), auch Kornblume genannt, ist eine krautige, mehrjährige Pflanzenart der Gattung Leontopodium Cass., Familie Asteraceae.",
+    "name" : "Floarea-de-colț (Leontopodium alpinum Cass)",
+   "location" : [[45.583782813659866, 24.749699430561186]],
+   "description" : "Floarea de colț (Leontopodium alpinum) este o plantă erbacee reprezentativă pentru vegetația alpină. Tulpina neramificată măsoară între 15 și 30 cm și are dispuse în vârf mici inflorescențe rotunde, galbene, înconjurate de niște frunze albe cu aspect lânos numite bractee, ce au o dispunere stelată. Frunzele, puține la număr, au formă alungită, iar întreaga plantă este acoperită de perișori fini, de culoare argintie, cu rol de protecție. O putem găsi înflorită între lunile iulie și septembrie, în zonele stâncoase din Carpați, în locuri greu accesibile la altitudini de peste 1600 m.",
+  "status" : "Aproape de pericol",
+  "type" : "Plant",
+  "images" : "static/images/floare_de_colt/1.jpg",
+  "german_name" : "Die Alpen-Edelweiß (Leontopodium alpinum Cass)",
+  "german_description" : "Die Alpen-Edelweiß (Leontopodium alpinum) ist eine krautige Pflanze, die für die alpine Vegetation repräsentativ ist. Der unverzweigte Stängel misst zwischen 15 und 30 cm und trägt kleine, runde gelbe Blütenköpfchen an der Spitze, die von weißen, wollig aussehenden Hochblättern namens Hochblätter umgeben sind, die in einem sternförmigen Muster angeordnet sind. Die wenigen Blätter sind länglich geformt, und die gesamte Pflanze ist mit feinen, silberfarbenen Härchen bedeckt, die als Schutz dienen. Sie blüht von Juli bis September in den felsigen Gebieten der Karpaten, an schwer zugänglichen Orten in Höhen über 1600 m.",
 
-    "french_name" : "Edelweiss",
-    "french_description" : "(Leontopodium alpinum Cass.), également appelé bleuet, est une espèce de plante herbacée vivace du genre Leontopodium Cass., famille des Astéracées."
-}
+  "french_name" : "La Stella alpina (Leontopodium alpinum Cass)",
+  "french_description" : "La Stella alpina (Leontopodium alpinum) est une plante herbacée représentative de la végétation alpine. La tige non ramifiée mesure entre 15 et 30 cm et porte de petites inflorescences rondes jaunes au sommet, entourées de feuilles blanches au aspect laineux appelées bractées, disposées en étoile. Les feuilles, peu nombreuses, sont allongées, et toute la plante est couverte de fins poils argentés, jouant un rôle protecteur. On peut la trouver en fleur de juillet à septembre, dans les zones rocheuses des Carpates, dans des endroits difficiles d'accès à des altitudes de plus de 1600 mètres."
+  }
+  

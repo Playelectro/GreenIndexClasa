@@ -1,0 +1,15 @@
+{ 
+
+"name": "Delta Dunării",  
+
+"location": [[45.1708, 29.7111]],  
+
+"description": "Delta Dunării este cea mai mare rezervație naturală de acest tip din Europa, reprezentând un ecosistem unic cu o bogată diversitate biologică, inclusiv numeroase specii de păsări, pești și plante. Este recunoscută și ca UNESCO Biosphere Reserve.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/delta_dunarii.png" 
+
+ 
+
+} 

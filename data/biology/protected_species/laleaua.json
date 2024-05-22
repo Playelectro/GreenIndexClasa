@@ -1,0 +1,13 @@
+{
+    "name" : "Laleaua pestriță (Fritillaria meleagris)",
+   "location" : [[45.19662220484176, 21.949581373044097]],
+   "description" : "Laleaua pestriță este pe lista cu plante ocrotite de lege încă din anii `80, ea înflorind doar 7 zile pe an, la mijlocul lunii mai. Laleaua pestriță se găsește în toate țările europene mai fiind cunoscută și sub numele de floare de șah, bibilică, clopotar sau căldărușă. Laleaua pestriță a primit toate aceste apelative datorită florii sale de un mov închis, care se îmbină cu multe pete albe. Laleaua pestriță poate fi admirată în mai multe rezervații din Olt, Banat sau Mureș.",
+    "status" : "Risc Scăzut",
+    "type" : "Plant",
+    "images" : "static/images/laleaua_pestrita1.jpeg",
+    "german_name" : "Die Schachbrettblume (Fritillaria meleagris).",
+    "german_description" : "Das Schachbrettblume steht seit den 1980er Jahren auf der Liste der geschützten Pflanzen und blüht nur 7 Tage im Jahr, Mitte Mai. Man findet das Schachbrettblume in allen europäischen Ländern, es ist auch als Schachblume, Bibilică, Glockenblume oder Kesselpflanze bekannt. Das Schachbrettblume erhielt all diese Namen aufgrund seiner tiefvioletten Blüte, die mit vielen weißen Flecken übersät ist. Das Schachbrettblume kann in mehreren Naturschutzgebieten in Olt, Banat oder Mureș bewundert werden.",
+
+    "french_name" : "La Fritillaire pintade (Fritillaria meleagris).",
+    "french_description" : "La Fritillaire pintade est inscrite sur la liste des plantes protégées depuis les années 80, fleurissant seulement 7 jours par an, au milieu du mois de mai. On la trouve dans tous les pays européens, étant également connue sous le nom de fleur d'échecs, bibilică, clochette ou chaudronnette. La Fritillaire pintade a reçu tous ces noms en raison de sa fleur d'un violet foncé, parsemée de nombreuses taches blanches. On peut admirer la Fritillaire pintade dans plusieurs réserves naturelles de l'Olt, du Banat ou de la Mureș."
+  }  

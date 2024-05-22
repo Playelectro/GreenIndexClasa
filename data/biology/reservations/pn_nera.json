@@ -1,0 +1,15 @@
+{ 
+
+ 
+
+"name": "Parcul Național Cheile Nerei-Beușnița",  
+
+"location": [[44.8028, 21.8167]], 
+
+"description": "Parcul Național Cheile Nerei-Beușnița este cunoscut pentru peisajele sale spectaculoase de chei, cascade, păduri și râuri cristaline. Aici se găsesc numeroase specii de floră și faună, unele dintre ele fiind rare sau endemice.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/pn_nera.png" 
+
+}

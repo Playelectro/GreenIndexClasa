@@ -1,0 +1,24 @@
+{ 
+
+    "name" : "Capra neagră (Rupicapra rupicapra)", 
+
+    "location" : [[45.58690839253287, 24.55639598634457]], 
+
+    "description" : "Capra neagră are habitatul în zonele stâncoase montane din Europa. Grație musculaturii foarte dezvoltate și a copitelor despicate, capra neagră se poate deplasa cu ușurință în zone stâncoase, inaccesibile altor specii, unde-și procură hrana și se refugiază din fața prădătorilor.", 
+
+    "status" : "Vulnerabil", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/capra_neagra.jpg",
+    "german_name" : "Die Gämse (Rupicapra rupicapra)",
+    "german_description" : "Die Gämse hat ihren Lebensraum in den felsigen Gebirgsregionen Europas. Dank ihrer sehr gut entwickelten Muskulatur und ihrer gespaltenen Hufe kann sich die Gämse leicht in felsigen, für andere Arten unzugänglichen Gebieten bewegen, wo sie Nahrung findet und vor Raubtieren Zuflucht sucht.",
+
+    "french_name" : "Le chamois (Rupicapra rupicapra) ",
+    "french_description" : "Le chamois a son habitat dans les zones rocheuses des montagnes d'Europe. Grâce à sa musculature très développée et à ses sabots fendus, le chamois peut se déplacer facilement dans des zones rocheuses, inaccessibles à d'autres espèces, où il se nourrit et se réfugie pour échapper aux prédateurs." 
+
+} 
+
+ 
+
+ 

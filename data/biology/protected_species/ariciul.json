@@ -1,0 +1,22 @@
+{ 
+
+    "name" : "Ariciul (Erinaceus europaeus)", 
+
+    "location" : [[45.01449026071637, 23.809792168884755]], 
+
+    "description" : "Ariciul este un mamifer mic care aparține ordinului insectivorelor, având o lungime a corpului de până la 33 de cm. Greutatea variază de la 800-1200g, în dependență de specie. Au niște ochi mici și o ureche externă slab dezvoltată. Au un bot mic și ascuțit, cu o acuitate olfactivă foarte dezvoltată. Partea dorsală și laterală a corpului este acoperită cu niște ace lungi și ascuțite, alcătuite din cheratină și având o lungime de 10-20 de mm. Pe corpul unui arici pot fi până la 15.000 de astfel de ace.", 
+
+    "status" : "Risc Scăzut", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/arici.jpg",
+    "german_name" : "Der Igel",
+    "german_description" : "Der Igel ist ein kleines Säugetier, das zur Ordnung der Insektenfresser gehört und eine Körperlänge von bis zu 33 cm erreicht. Das Gewicht variiert je nach Art zwischen 800 und 1200 g. Sie haben kleine Augen und ein schwach entwickeltes äußeres Ohr. Sie haben eine kleine, spitze Schnauze mit einem sehr gut entwickelten Geruchssinn. Der Rücken und die Seiten des Körpers sind mit langen, spitzen Stacheln bedeckt, die aus Keratin bestehen und eine Länge von 10-20 mm haben. Ein Igel kann bis zu 15.000 solcher Stacheln auf seinem Körper haben.",
+
+    "french_name" : "le hérisson",
+    "french_description" : "Le hérisson est un petit mammifère appartenant à l'ordre des insectivores, ayant une longueur de corps allant jusqu'à 33 cm. Le poids varie de 800 à 1200 g, en fonction de l'espèce. Ils ont de petits yeux et une oreille externe peu développée. Ils ont un museau petit et pointu, avec une acuité olfactive très développée. La partie dorsale et latérale du corps est couverte de longues et pointues épines, faites de kératine et mesurant de 10 à 20 mm de longueur. Un hérisson peut avoir jusqu'à 15 000 de ces épines sur son corps."
+
+} 
+
+ 

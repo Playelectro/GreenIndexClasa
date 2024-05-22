@@ -1,0 +1,20 @@
+{ 
+
+    "name" : " Jderul (Martes martes)" ,
+
+    "location" : [[46.618100506633674, 22.144703173337707]], 
+
+    "description" : "Jderul de copac sau jderul de scorbură este un mamifer carnivor nocturn din familia mustelidelor, cu blană brună-roșcată și puf ce bate spre galben și cu o pată alb-gălbuie la gât și o coada neagră. Are greutatea de până la 1,0–1,5 kg. Trăiește 10–12 ani. Vânează în timpul nopții animale mici (șoareci, șobolani, iepuri), păsări (fazani etc.), culege fructe de pădure și semințe. Hrana preferată o constituie veverițele și pârșii. Este răspândit în Europa (inclusiv în România și Republica Moldova), Asia Mică, nordul Irakului și Iranului, Caucaz, Siberia de Vest. În România este răspândit în toate pădurile țării, este mai frecvent întâlnit la munte, până la limita vegetației forestiere; este găsit însă și în câmpie în păduri. Trăiește în scorburi și cuiburi pe copaci. ", 
+
+    "status" : "Risc Scăzut", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/jder.jpg",
+    "german_name" : "Der Marder (Martes martes)",
+    "german_description" : "Der Baummarder oder die Baummarder ist ein nachtaktives Raubtier aus der Familie der Marder mit einem rötlich-braunen Fell und einem gelblichen Unterfell und einem weißen Fleck am Hals sowie einem schwarzen Schwanz. Es wiegt bis zu 1,0–1,5 kg. Es lebt 10–12 Jahre. Es jagt nachts kleine Tiere (Mäuse, Ratten, Hasen), Vögel (Fasane usw.), sammelt Waldfrüchte und Samen. Die bevorzugte Nahrung sind Eichhörnchen und Feldmäuse. Es ist verbreitet in Europa (einschließlich Rumänien und Republik Moldau), Kleinasien, Nordirak und Iran, Kaukasus, Westsibirien. In Rumänien ist es in allen Wäldern des Landes verbreitet, häufiger im Gebirge bis zur Waldgrenze; es wird jedoch auch in Wäldern in der Ebene gefunden. Es lebt in Baumhöhlen und Nestern.",
+
+    "french_name" : "La Martre des pins (Martes martes)",
+    "french_description" : "Le martre des pins ou martre des arbres est un mammifère carnivore nocturne de la famille des mustélidés, avec un pelage brun rougeâtre et un duvet allant vers le jaune et une tache blanchâtre au cou ainsi qu'une queue noire. Il pèse jusqu'à 1,0-1,5 kg. Il vit 10-12 ans. Il chasse la nuit de petits animaux (souris, rats, lapins), des oiseaux (faisans, etc.), cueille des fruits des bois et des graines. Ses proies préférées sont les écureuils et les campagnols. Il est répandu en Europe (y compris en Roumanie et en République de Moldavie), en Anatolie, dans le nord de l'Irak et de l'Iran, dans le Caucase et en Sibérie occidentale. En Roumanie, il est répandu dans toutes les forêts du pays, plus fréquent en montagne jusqu'à la limite des arbres; on le trouve cependant aussi en plaine dans les forêts. Il vit dans les trous d'arbres et les nids." 
+
+} 

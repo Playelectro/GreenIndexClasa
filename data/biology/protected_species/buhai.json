@@ -1,0 +1,19 @@
+{ 
+
+        "name": "Buhaiul de baltă (Botaurus stellaris)", 
+
+        "location": [[45.212478, 29.336531]], 
+
+        "description": "Este una din păsările cel mai greu de observat. Sosește în zonă din luna aprilie și poate fi văzut foarte greu, deoarece preferă să stea ascuns în stuful din apropierea lacurilor. Penajul seamănă foarte mult cu dungile firelor de stuf, iar la apropierea cuiva, își îndreaptă capul spre cer, iar dungile de pe piept și de pe gât se confundă cu stuful. În luna august pleacă în migrația de toamnă.", 
+
+        "status": "Risc Scăzut",
+        "type": "Animal",
+
+        "images": "static/images/Buhaiul_De_Balta.jpg",
+        "german_name" : "Die Rohrdommel (Botaurus stellaris)",
+        "german_description" : "Es ist einer der am schwersten zu beobachtenden Vögel. Er kommt im April in die Gegend und ist sehr schwer zu sehen, da er es vorzieht, sich im Schilf in der Nähe der Seen zu verstecken. Sein Gefieder ähnelt sehr den Streifen der Schilfhalme, und wenn sich jemand nähert, richtet er seinen Kopf zum Himmel, und die Streifen auf seiner Brust und seinem Hals verschmelzen mit dem Schilf. Im August macht er sich auf den Weg in den Herbstzug.",
+    
+        "french_name" : "Butor étoilé (Botaurus stellaris)",
+        "french_description" : "C'est l'un des oiseaux les plus difficiles à observer. Il arrive dans la région à partir du mois d'avril et peut être très difficile à voir car il préfère rester caché dans les roseaux près des lacs. Son plumage ressemble beaucoup aux lignes des brins de roseau, et lorsqu'il est approché, il redresse la tête vers le ciel, et les lignes sur sa poitrine et son cou se confondent avec les roseaux. En août, il part pour la migration automnale." 
+
+    }

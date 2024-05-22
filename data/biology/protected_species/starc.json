@@ -1,0 +1,19 @@
+{ 
+
+"name": "Stârcul galben (Ardeola ralloides)", 
+
+"location": [[45.212478, 29.336531]], 
+
+"description": "Este un stârc de talie medie, care sosește în zonă din luna aprilie și pleacă abia la finalul lunii august, după ce și-a crescut puii. Pentru a-l vedea, trebuie să vă apropiați de zonele care îi plac: pajiștile cu iarbă înaltă după care se ascunde, zonele inundate sau semi-inundate, care au apă mică. Preferă totodată și lacurile cu stuf, de la umbra căruia pândește prada.", 
+
+"status": "Risc Scăzut", 
+"type":"Animal",
+
+"images": "static/images/Starcul_Galben.jpg",
+"german_name" : "Gelber reiher",
+"german_description" : "Es handelt sich um einen mittelgroßen Reiher, der im April in die Region kommt und erst gegen Ende August wieder abreist, nachdem er seine Jungen aufgezogen hat. Um ihn zu sehen, müssen Sie sich den Gebieten nähern, die ihm gefallen: die Wiesen mit hohem Gras, in denen er sich versteckt, die überfluteten oder halb überfluteten Gebiete mit flachem Wasser. Er bevorzugt auch Seen mit Schilf, von dessen Schatten aus er seine Beute belauert.",
+
+"french_name" : "Héron jaune",
+"french_description" : "C'est un héron de taille moyenne qui arrive dans la région au mois d'avril et ne repart qu'à la fin du mois d'août, après avoir élevé ses petits. Pour le voir, vous devez vous approcher des zones qu'il affectionne : les prairies à l'herbe haute où il se cache, les zones inondées ou semi-inondées avec de l'eau peu profonde. Il préfère également les lacs avec des roseaux, depuis l'ombre desquels il guette sa proie." 
+
+}

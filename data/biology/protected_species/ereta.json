@@ -1,0 +1,18 @@
+{ 
+        "name": "Eretele de stuf (Circus aeruginosus)", 
+
+        "location": [[46.548023, 21.719917]], 
+
+        "description": "Pasăre răpitoare de talie medie, cu coadă lungă, aripi înguste cu 5 remige primare \"digitale\" și corp suplu. Prezintă dimorfism sexual accentuat. Masculul are coada și aripile deschise la culoare, cu vârful aripilor negru și penajul de corp de culoare ruginie, ușor pestriț pe piept. Femela are penajul general maroniu închis, cu creștetul, gâtul și coada deschise la culoare.", 
+
+        "status": "Risc Scăzut", 
+        "type":"Animal",
+        
+        "images": "static/images/Erete_De_Stuf.jpg",
+        "german_name" : "Rohrweihe (Circus aeruginosus)",
+        "german_description" : "Ein mittelgroßer Raubvogel mit langem Schwanz, schmalen Flügeln mit 5 primären 'digitalen' Handschwingen und einem schlanken Körper. Es gibt einen ausgeprägten Sexualdimorphismus. Das Männchen hat einen offenen farbigen Schwanz und Flügel, mit schwarzen Spitzen der Flügel und einem rötlichen, leicht gefleckten Körpergefieder. Das Weibchen hat ein allgemein dunkelbraunes Gefieder mit hellerem Kopf, Hals und Schwanz.",
+    
+        "french_name" : "Busard des roseaux(Circus aeruginosus)",
+        "french_description" : "Oiseau de proie de taille moyenne, avec une longue queue, des ailes étroites avec 5 rémiges primaires 'digitales' et un corps élancé. Il présente un dimorphisme sexuel prononcé. Le mâle a une queue et des ailes ouvertes en couleur, avec les extrémités noires des ailes et un plumage corporel rougeâtre, légèrement tacheté sur la poitrine. La femelle a un plumage généralement brun foncé, avec une tête, un cou et une queue plus clairs." 
+
+    }

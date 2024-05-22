@@ -1,0 +1,13 @@
+{
+    "name" : "Timisoara",
+    "location" : [[45.748462220065406, 21.204914181102595]],
+    "description" : "Timișoara, un oraș puternic francofon, prin Alliance Française, oferă cursuri de franceză pentru toți Ebenex, precum și evenimente culturale precum și evenimente culturale precum conferințe, proiecții de filme, expoziții de artă și concerte, contribuind astfel la promovarea limbii și culturii Franței în regiunea. Anul acesta, Săptămâna Francofoniei de la Timişoara oferă o serie de manifestări culturale, educaţionale şi artistice care evidenţiază diversitatea culturii francofone. Acestea includ proiecții de filme în limba franceză, concerte de muzică franceză, expoziții de artă, conferințe și studiouri lingvistice. Acest eveniment nu este deosebit de important pentru vorbitorii de franceză din regiune, ci și pentru rezidenții interesați de Francofonie și cultura franceză.",
+    "images" : "/static/images/timisoara_fran/1.jpg",
+
+    "german_name" : "Timisoara",
+    "german_description" : "Timișoara, eine stark französischsprachige Stadt, bietet über ihre Alliance Française Französischkurse für alle Niveaus sowie kulturelle Veranstaltungen wie Konferenzen, Filmvorführungen, Kunstausstellungen und Konzerte an und trägt so zur Förderung der französischen Sprache und Kultur in der Stadt bei Region. Jedes Jahr bietet die Woche der Frankophonie in Temeswar eine Reihe kultureller, pädagogischer und künstlerischer Veranstaltungen an, die die Vielfalt der französischsprachigen Kultur hervorheben. Dazu gehören Vorführungen französischsprachiger Filme, französische Musikkonzerte, Kunstausstellungen, Konferenzen und Sprachworkshops. Diese Veranstaltung zieht nicht nur französischsprachige Personen aus der Region an, sondern auch Anwohner, die sich für die Frankophonie und die französische Kultur interessieren.",
+
+    "french_name" : "Timisoara",
+    "french_description" : "Timișoara, une ville fortement francophone, par son Alliance Française, propose des cours de français pour tous les niveaux, ainsi que des événements culturels tels que des conférences, des projections de films, des expositions d'art et des concerts, contribuant ainsi à la promotion de la langue et de la culture françaises dans la région. La Semaine de la Francophonie à Timişoara propose chaque année une série d'événements culturels, éducatifs et artistiques mettant en valeur la diversité de la culture francophone. Cela inclut des projections de films francophones, des concerts de musique française, des expositions d'art, des conférences et des ateliers linguistiques. Cet événement attire non seulement les francophones de la région, mais aussi les habitants locaux intéressés par la francophonie et la culture française. "
+
+}

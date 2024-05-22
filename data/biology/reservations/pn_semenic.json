@@ -1,0 +1,15 @@
+{ 
+
+ 
+
+"name": "Parcul Național Semenic-Cheile Carașului",  
+
+"location": [[45.1242, 22.1561]],  
+
+"description": "Parcul Național Semenic-Cheile Carașului este situat în Munții Banatului și este cunoscut pentru cheile sale adânci, peisajele spectaculoase și diversitatea sa biologică, care include numeroase specii rare și protejate.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/pn_semenic.png" 
+
+} 

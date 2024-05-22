@@ -1,0 +1,15 @@
+ 
+{
+    "name" : "Papucul doamnei (Cypripedium calceolus)",
+   "location" : [[45.39902546782118, 25.49336818433991]],
+   "description" : "Papucul doamnei este o specie de orhidee aparținând genului Cypripedium. Aceasta apare în pădurile umbroase de foioase și mixte (rareori în plină lumină solară la altitudini mai mari) sau mai rar, pe versanții împrăștiați cu pietre, predominant pe soluri calcaroase. Poate rezista iernilor reci și în părțile nordice ale eurasiei tinde să crească în grădinile de primăvară bogate în calciu și pe pajiștile mlăștinoase.",
+    "status" : "Risc Scăzut",
+    "type" : "Plant",
+    "images" : "static/images/papucul_doamnei1.jpg",
+    "german_name" : "Frauenschuh (Cypripedium calceolus)",
+    "german_description" : "Frauenschuh ist eine Orchideenart aus der Gattung Cypripedium. Sie kommt in schattigen Laub- und Mischwäldern vor (selten in direktem Sonnenlicht in höheren Lagen) oder seltener auf steinigen Hängen, hauptsächlich auf kalkhaltigen Böden. Sie kann kalte Winter überstehen, und in den nördlichen Teilen Eurasiens neigt sie dazu, in kalkreichen Frühlingsgärten und feuchten Wiesen zu wachsen.",
+
+    "french_name" : "Sabot de Vénus (Cypripedium calceolus)",
+    "french_description" : "Le Sabot de Vénus est une espèce d'orchidée appartenant au genre Cypripedium. On le trouve dans les forêts ombragées de feuillus et mixtes (rarement en pleine lumière du soleil à des altitudes plus élevées) ou plus rarement sur les pentes parsemées de pierres, principalement sur des sols calcaires. Il peut résister aux hivers froids et dans les parties nordiques de l'Eurasie, il a tendance à pousser dans les jardins de printemps riches en calcium et dans les prairies humides."
+  }
+  

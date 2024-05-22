@@ -1,0 +1,20 @@
+{ 
+
+    "name" : "Broasca țestoasă dobrogeană (Testudo graeca)" ,
+
+    "location" : [[44.765609787240145, 28.753136734286088]], 
+
+    "description" : "Broasca țestoasă dobrogeană este specifică pădurilor și zonei litorale din Dobrogea. Poate să ajungă la 20-30 centimetri lungime, cu carapacea bombată, ceva mai lată în partea posterioară, colorată în galben-maroniu, cu plăcile delimitate de pete negre. Vara caută locurile uscate, calduroase, cu hrană suficientă (frunze de păpădie, măcriș, rădăcini, rame etc.), iar iarna hibernează. Trăiește în jur de o sută de ani.", 
+
+    "status" : "Risc Scăzut", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/broasca_testoasa.jpg",
+    "german_name" : "Schildkröte (Testudo graeca)",
+    "german_description" : "Die Schildkröte ist typisch für die Wälder und Küstengebiete der Dobrudscha. Sie kann eine Länge von 20-30 Zentimetern erreichen, mit einem gewölbten Panzer, der hinten etwas breiter ist, gelb-braun gefärbt ist und durch schwarze Flecken getrennte Platten hat. Im Sommer sucht sie trockene, warme Orte mit ausreichend Nahrung (Löwenzahnblätter, Ampfer, Wurzeln, Regenwürmer usw.), während sie im Winter Winterschlaf hält. Sie lebt etwa hundert Jahre.",
+
+    "french_name" : "tortue (Testudo graeca)",
+    "french_description" : "La tortue est spécifique aux forêts et aux zones côtières de Dobroudja. Elle peut atteindre une longueur de 20 à 30 centimètres, avec une carapace bombée, un peu plus large à l'arrière, de couleur jaune-marron, avec des plaques délimitées par des taches noires. En été, elle recherche des endroits secs, chauds, avec suffisamment de nourriture (feuilles de pissenlit, oseille, racines, vers de terre, etc.), tandis qu'en hiver, elle hiberne. Elle vit environ cent ans."
+
+} 

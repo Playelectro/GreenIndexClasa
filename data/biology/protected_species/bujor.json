@@ -1,0 +1,14 @@
+{
+    "name" : "Bujorul românesc (Paeonia peregrina)",
+   "location" : [[44.13773701440106, 26.158893806550328]],
+   "description" : "Bujorul românesc este o specie de floare unică în Europa, care se găsește numai în România. Este roșie, dar cu mai puține petale decât bujorul de grădină. În țară există cinci rezervații naturale de bujori românești. ",
+    "status" : "Risc Scăzut",
+    "type" : "Plant",
+    "images" : "static/images/bujor1.jpeg",
+    "german_name" : "Rumänische Pfingstrose (Paeonia peregrina)",
+    "german_description" : "Der rumänische Pfingstrose ist eine einzigartige Blumensorte in Europa, die nur in Rumänien zu finden ist. Sie ist rot, aber mit weniger Blütenblättern als die Gartenpfingstrose. Im Land gibt es fünf Naturreservate für rumänische Pfingstrosen.",
+
+    "french_name" : "Pivoine roumaine (Paeonia peregrina)",
+    "french_description" : "Le pivoine roumaine est une espèce de fleur unique en Europe, que l'on trouve uniquement en Roumanie. Elle est rouge, mais avec moins de pétales que la pivoine de jardin. Il existe cinq réserves naturelles de pivoines roumaines dans le pays."
+  }
+  

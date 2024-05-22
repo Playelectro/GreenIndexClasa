@@ -1,0 +1,14 @@
+{
+    "name" : "Piticul alpin/Degetăruțul (Soldanella montana)",
+   "location" : [[45.603833310018715, 24.616527518416305]],
+   "description" : "Piticul alpin este o plantă erbacee, cu o înălțime între 30 – 60 de mm, care răsare în Carpații Orientali, în luminișuri sau la marginea pădurilor. La vârful tulpinei este o floare mică aplecată sub forma unui clopot, ce are o culoare de liliachiu deschis. Piticul alpin înflorește între lunile mai – iunie. În jurul Lacului Bâlea cresc plante specifice circurilor glaciare, cum este şi degetăruţul pitic alpin. ",
+    "status" : "Risc Scăzut",
+    "type" : "Plant",
+    "images" : "static/images/piticul_alpin1.jpg",
+    "german_name" : "Der Alpenzwerg/Das kleine Fingerhütchen (Soldanella montana)",
+    "german_description" : "Die Alpen-Soldanelle ist eine krautige Pflanze, die eine Höhe von 30 bis 60 mm erreicht und in den Ostkarpaten in Lichtungen oder am Waldrand wächst. An der Spitze des Stängels befindet sich eine kleine, glockenförmige Blüte von helllila Farbe. Die Alpen-Soldanelle blüht zwischen Mai und Juni. Rund um den Bâlea-See wachsen Pflanzen, die für die Gletscherkare typisch sind, wie die Alpen-Soldanelle.",
+
+    "french_name" : "Soldanella des montagnes (Soldanella montana)",
+    "french_description" : "La Soldanelle des montagnes est une plante herbacée, mesurant entre 30 et 60 mm de hauteur, qui pousse dans les Carpates orientales, dans les clairières ou en bordure des forêts. Au sommet de la tige se trouve une petite fleur pendante en forme de cloche, de couleur lilas clair. La Soldanelle des montagnes fleurit entre les mois de mai et juin. Autour du lac Bâlea, poussent des plantes spécifiques aux cirques glaciaires, telles que la soldanelle des montagnes."
+  }
+  

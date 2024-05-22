@@ -1,0 +1,20 @@
+{ 
+
+    "name" : "Zimbrul (Bison bonasus)",
+
+    "location" : [[44.871223034349136, 25.729384638483914]], 
+
+    "description" : "Zimbrul (Bison bonasus) este o specie de bizon care se găsește în Europa. În 1996 a fost clasificat ca specie în pericol. Zimbrul este cel mai greu animal european de pe uscat. Un zimbru are o lungime de 2,9 – 3 metri și o înălțime de 1,9 metri, cântărind de la 300 la 920 kg.", 
+
+    "status" : "In pericol", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/zimbru/1.jpg",
+    "german_name" : "Der Wisent",
+    "german_description" : "Der Wisent (Bison bonasus) ist eine Bisonspezies, die in Europa vorkommt. Im Jahr 1996 wurde sie als gefährdete Art eingestuft. Der Wisent ist das schwerste europäische Landsäugetier. Ein Wisent hat eine Länge von 2,9 bis 3 Metern und eine Höhe von 1,9 Metern und wiegt zwischen 300 und 920 kg.",
+
+    "french_name" : "Le bison d'Europe",
+    "french_description" : "Le bison d'Europe (Bison bonasus) est une espèce de bison qui se trouve en Europe. En 1996, il a été classé comme espèce en danger. Le bison d'Europe est le plus lourd animal terrestre européen. Un bison d'Europe mesure entre 2,9 et 3 mètres de longueur et a une hauteur de 1,9 mètre, pesant de 300 à 920 kg." 
+
+} 

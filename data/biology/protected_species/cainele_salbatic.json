@@ -1,0 +1,19 @@
+{ 
+
+    "name" : "Câinele sălbatic  (Canis aureus)" ,
+    "location" : [[43.98714920416078, 24.746214543767277]], 
+
+    "description" : "Șacalul auriu este un mamifer carnivor sălbatic, din familia canidelor, asemănător cu vulpea și lupul, de culoare galben-aurie, spre roșcat, cu coada scurtă, ciuntită la vârf, urechi relativ mari, ascuțite, îndreptate în sus și bot ascuțit. Lungimea corpului este de 0,70-1,05 m, iar greutatea poate atinge 15 kg. Trăiește în nordul Africii, sudul Asiei și în sudul Europei, inclusiv în România (subspecia Canis aureus moreoticus în sudul Olteniei, Munteniei și Dobrogei). Este un animal gregar, trăind în haite, fiind activ noaptea.", 
+
+    "status" : " Risc Scăzut", 
+
+    "type" : "Animal", 
+
+    "images" : "static/images/caine_salbatic.jpg",
+    "german_name" : "Goldschakal (Canis aureus)",
+    "german_description" : "Der Goldschakal ist ein wilder, fleischfressender Säugetier aus der Familie der Hunde, ähnlich dem Fuchs und dem Wolf, von gelb-goldener bis rötlicher Farbe, mit einem kurzen, stumpfen Schwanz, relativ großen, spitzen Ohren, die nach oben gerichtet sind, und einer spitzen Schnauze. Die Körperlänge beträgt 0,70-1,05 m und das Gewicht kann 15 kg erreichen. Er lebt in Nordafrika, im südlichen Asien und im südlichen Europa, einschließlich Rumäniens (Unterart Canis aureus moreoticus im Süden der Oltenia, Muntenia und Dobrogei). Er ist ein geselliges Tier, das in Rudeln lebt und nachts aktiv ist.",
+
+    "french_name" : "Chacal doré (Canis aureus)",
+    "french_description" : "Le chacal doré est un mammifère carnivore sauvage, de la famille des canidés, semblable au renard et au loup, de couleur jaune doré à rougeâtre, avec une queue courte, écourtée au sommet, des oreilles relativement grandes, pointues, dirigées vers le haut et un museau pointu. Sa longueur corporelle est de 0,70 à 1,05 m et son poids peut atteindre 15 kg. Il vit en Afrique du Nord, au sud de l'Asie et dans le sud de l'Europe, y compris en Roumanie (sous-espèce Canis aureus moreoticus dans le sud de l'Olténie, de la Muntenie et de la Dobroudja). C'est un animal grégaire, vivant en meutes, et actif la nuit" 
+
+} 

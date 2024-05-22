@@ -1,0 +1,11 @@
+{
+    "name" : "Biserica Neagra",
+    "location" : [[45.641297, 25.588577]],
+    "description" : "Biserica Neagră (în germană Die Schwarze Kirche) este biserica parohială a comunității evanghelice luterane din Brașov, situată în centrul municipiului Brașov. Clădirea gotică a fost parțial avariată în incendiul din 1689, când zidurile ei s-au înnegrit și a primit numele actual. Denumirea populară de după incendiu, „Biserica Neagră”, a fost acceptată oficial în secolul al XIX-lea.",
+    "images" : "/static/images/biserica_neagra/biserica_neagra.jpg",
+    "german_name" : "Die Schwarze Kirche",
+    "german_description" : "eine gotische Hallenkirche, zahlt zu den bedeutendsten Baudenkmälern Südosteuropas und Rumäniens seit 1669 ist sie die Hauptkirche der Honterusgemeinde in Siebenbürgen Sie ist nicht nur ein Symbol für Rumänien, sondern ist mit den Jahrhunderten die sie überlebt hat ein Dingsymbol kollektiver Identität geworden",
+
+    "french_name" : "L'Église noire",
+    "french_description" : "une église-halle gothique, est l'un des monuments architecturaux les plus importants d'Europe du Sud-Est et de Roumanie Depuis 1669, c'est l'église principale de la communauté Honterus en Transylvanie. Ce n'est pas seulement un symbole de la Roumanie, mais au fil des siècles, il a survécu et est devenu un symbole d'identité collective."
+}

@@ -1,0 +1,13 @@
+
+{"name" : "Roua cerului (Drosera rotundifolia)",
+"location" : [[46.592145690873885, 22.76182062209692]],
+"description" : "Roua cerului se află ascunsă în Rezervația Molhașul Mare de la Izbuc, din extremitatea vestică a județului Cluj. Roua cerului este una dintre puținele specii de plante carnivore din România. Ea și-a căpătat numele de la secreția lipicioasă pe care o are, asemănătoare cu roua. De asemenea, Roua Cerului mai are mici perișori, cu aspect de tentacule. Deși pare inofensivă la prima vedere, Roua Cerului are un mecanism bine pus la punct prin care atrage insectele. Acestea ajung în seva lipicioasă, tentaculele se închid, iar insecta este dizolvată în câteva minute.",
+ "status" : "Risc Scăzut",
+ "type" : "Plant",
+ "images" : "static/images/roua_cerului1.jpg",
+ "german_name" : "Rundblättriger Sonnentau",
+ "german_description" : "Der Rundblättriger Sonnentau ist im Naturschutzgebiet Molhașul Mare bei Izbuc, im westlichen Teil des Kreises Cluj, verborgen. Der Rundblättriger Sonnentau ist eine der wenigen Arten von fleischfressenden Pflanzen in Rumänien. Er hat seinen Namen von der klebrigen Sekretion, die er ähnlich wie Tau besitzt. Außerdem hat der Rundblättriger Sonnentau kleine Haare, die wie Tentakel aussehen. Obwohl er auf den ersten Blick harmlos erscheint, hat der Rundblättriger Sonnentau einen gut durchdachten Mechanismus, um Insekten anzulocken. Diese gelangen in den klebrigen Saft, die Tentakel schließen sich und das Insekt wird innerhalb weniger Minuten aufgelöst.",
+
+ "french_name" : "Droséra à feuilles rondes",
+ "french_description" : "Le droséra à feuilles rondes du ciel est cachée dans la Réserve de la Grande Mare à Izbuc, à l'extrémité ouest du comté de Cluj. Le droséra à feuilles rondes du ciel est l'une des rares espèces de plantes carnivores en Roumanie. Elle tire son nom de la sécrétion collante qu'elle possède, semblable à la droséra à feuilles rondes. De plus, le droséra à feuilles rondes du ciel présente de petits poils ressemblant à des tentacules. Bien qu'elle semble inoffensive à première vue, le droséra à feuilles rondes du ciel dispose d'un mécanisme bien rodé pour attirer les insectes. Ces derniers se retrouvent piégés dans la sève collante, les tentacules se referment, et l'insecte est dissous en quelques minutes."
+}

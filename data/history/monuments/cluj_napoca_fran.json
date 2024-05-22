@@ -1,0 +1,12 @@
+{
+    "name" : "Cluj-Napoca",
+    "location" : [[46.77141547519621, 23.623277312026847]],
+    "description" : "Cluj-Napoca, ca centru cultural și educațional major al Transilvaniei, menține legături strânse cu lumea francofonă prin diverse colaborări culturale, educaționale și economice. Festivalul Internațional de Film Transilvania (TIFF), organizat în fiecare an la Cluj-Napoca, oferă o selecție de filme francofone aflate în competiție precum și proiecții speciale, oferind astfel pasionaților de film autohtoni ocazia de a descoperi diversitatea cinematografiei francofone. Institutul Francez din Cluj-Napoca oferă cursuri de franceză pentru toate nivelurile, precum și evenimente culturale precum conferințe, expoziții de artă și concerte, contribuind astfel la răspândirea limbii și culturii franceze în regiune. ",
+    "images" : "/static/images/cluj_napoca_fran/1.jpg",
+
+    "german_name" : "Cluj-Napoca",
+    "german_description" : "Cluj-Napoca unterhält als bedeutendes Kultur- und Bildungszentrum Siebenbürgens durch verschiedene kulturelle, pädagogische und wirtschaftliche Kooperationen enge Beziehungen zur französischsprachigen Welt. Das Transylvania International Film Festival (TIFF), das jedes Jahr in Cluj-Napoca organisiert wird, bietet eine Auswahl französischsprachiger Filme im Wettbewerb sowie Sondervorführungen und bietet so lokalen Filmfans die Möglichkeit, die Vielfalt des französischsprachigen Kinos zu entdecken. Das Französische Institut von Cluj-Napoca bietet Französischkurse für alle Niveaus sowie kulturelle Veranstaltungen wie Konferenzen, Kunstausstellungen und Konzerte an und trägt so zur Verbreitung der französischen Sprache und Kultur in der Region bei.",
+    
+    "french_name" : "Cluj-Napoca",
+    "french_description" : "Cluj-Napoca, en tant que centre culturel et éducatif majeur de la Transylvanie, entretient des liens étroits avec la francophonie à travers diverses collaborations culturelles, éducatives et économiques. Le Festival International de Film Transylvanie (TIFF), organisé chaque année à Cluj-Napoca, propose une sélection de films francophones en compétition ainsi que des projections spéciales, offrant ainsi aux cinéphiles locaux la possibilité de découvrir la diversité du cinéma francophone. L'Institut Français de Cluj-Napoca propose des cours de français pour tous les niveaux, ainsi que des événements culturels tels que des conférences, des expositions d'art et des concerts, contribuant ainsi à la diffusion de la langue et de la culture françaises dans la région. "
+}

@@ -2,5 +2,10 @@
     "name" : "Mănăstirea Curtea de Argeș",
     "location" : [[45.15697411187656, 24.67532948121981]],
     "description" : "Manastirea Curtea de Arges este unul dintre cele mai importante locuri de cult din România, situată în orașul cu același nume, în județul Argeș. Cu o istorie ce se întinde pe mai multe secole, manastirea este cunoscută pentru frumusețea și valoarea sa arhitecturală. Cea mai remarcabilă construcție este biserica, o capodoperă a stilului brâncovenesc, cunoscută pentru măiestria sculpturii în piatră și pentru frescele sale impresionante. De asemenea, manastirea găzduiește mormântul Regelui Carol I și al Reginei Elisabeta a României, adăugând și mai multă importanță istorică și spirituală acestui loc sfânt. ",
-    "images" : "/static/images/manastirea_curtea/manastirea_curtea.jpg"
+    "images" : "/static/images/manastirea_curtea/manastirea_curtea.jpg",
+    "german_name" : "Arges-Kloster",
+    "german_description" : "Das Kloster Curtea de Arges ist eine der wichtigsten Kultstätten Rumäniens und befindet sich in der gleichnamigen Stadt im Kreis Argeș. Das Kloster blickt auf eine jahrhundertealte Geschichte zurück und ist für seine Schönheit und seinen architektonischen Wert bekannt. Das bemerkenswerteste Gebäude ist die Kirche, ein Meisterwerk des Brancoven-Stils, das für seine meisterhafte Steinmetzarbeit und seine beeindruckenden Fresken bekannt ist. Das Kloster beherbergt auch das Grab von König Carol I. und Königin Elisabeta von Rumänien, was diesem heiligen Ort noch mehr historische und spirituelle Bedeutung verleiht.",
+
+    "french_name" : "Monastère d'Arges",
+    "french_description" : "Le monastère de Curtea de Arges est l'un des lieux de culte les plus importants de Roumanie, situé dans la ville du même nom, dans le département d'Argeș. Avec une histoire s'étendant sur plusieurs siècles, le monastère est connu pour sa beauté et sa valeur architecturale. L'édifice le plus remarquable est l'église, chef-d'œuvre du style Brancoven, connu pour sa maîtrise de la taille de la pierre et ses fresques impressionnantes. Le monastère abrite également le tombeau du roi Carol Ier et de la reine Elisabeta de Roumanie, ajoutant encore plus d'importance historique et spirituelle à ce lieu saint."
 }

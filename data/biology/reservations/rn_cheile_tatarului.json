@@ -1,0 +1,15 @@
+{ 
+
+"name": "Rezervația Naturală Cheile Tătarului",  
+
+"location": [[45.2000, 22.4333]],  
+
+"description": "Rezervația Naturală Cheile Tătarului este situată în Munții Banatului și este cunoscută pentru peisajele sale spectaculoase de chei, stânci calcaroase și cascade. Aici se găsesc numeroase specii de plante și animale rare.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/rn_cheile_tatarului.png" 
+
+ 
+
+} 

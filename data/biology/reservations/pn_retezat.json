@@ -1,0 +1,13 @@
+{ 
+
+"name": "Parcul Național Retezat",  
+
+"location": [[45.3494, 22.9303]],  
+
+"description": "Parcul Național Retezat este situat în Carpații Meridionali și este renumit pentru vârfurile sale ascuțite, lacurile glaciare și biodiversitatea sa bogată, inclusiv numeroase specii rare și endemice de plante și animale.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/pn_retezat.png" 
+
+} 

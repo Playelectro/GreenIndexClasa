@@ -1,0 +1,19 @@
+{ 
+
+"name": "Ferestrașul mic (Mergellus albellus)", 
+
+"location": [[45.229136, 28.844024]], 
+
+"description": "Este o specie de ferestraș de talie mică ce prezintă dimorfism sexual accentuat. Masculul are penajul alb pe cap, creastă, gât și partea ventrală, cu o mască contrastantă de culoare neagră, un \"v\" de culoare neagră pe ceafă și două dungi negre, subțiri, care pornesc de pe lateralele pieptului și se unesc cu spatele închis la culoare.", 
+
+"status": "Risc Crescut", 
+"type":"Animal",
+
+"images": "static/images/Ferestras_Mic.jpg",
+"german_name" : "Der Zwergsäger (Mergellus albellus)",
+"german_description" : "Es ist eine Art von kleiner Schellente mit ausgeprägtem Sexualdimorphismus. Das Männchen hat weißes Gefieder auf Kopf, Scheitel, Hals und Bauch, mit einer kontrastierenden schwarzen Maske, einem schwarzen 'V' auf dem Nacken und zwei dünnen schwarzen Streifen, die von den Seiten der Brust ausgehen und sich mit dem dunklen Rücken vereinen.",
+
+"french_name" : "Le Harle piette (Mergellus albellus)",
+"french_description" : "C'est une espèce de petit garrot avec un dimorphisme sexuel prononcé. Le mâle a un plumage blanc sur la tête, le sommet de la tête, le cou et le ventre, avec un masque contrastant de couleur noire, un 'V' noir sur la nuque et deux fines rayures noires partant des côtés de la poitrine et se rejoignant sur le dos sombre." 
+
+}

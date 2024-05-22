@@ -1,0 +1,13 @@
+{
+    "name": "Larice, Zadă (Larix decidua)",
+    "location": [[46.50786055099496, 23.00391107221805]],
+    "description": "Larix decidua are aria geografică de răspândire în Alpi și în Carpaţi. La noi în ţară este relativ puţin răspândită în mod natural, ca pâlcuri mici sau exemplare izolate prin munţii Apuseni, Bucegi, Ceahlău.  Arbore de talia  I,  coroană larg-piramidală. Frunze aciculare moi, dispuse în fascicule. Frunzele se colorează  galben toamna şi cad, conuri mici, erecte.",
+    "status": "Risc scăzut",
+    "type": "Plant",
+    "images": "static/images/larice_zada1.jpg",
+    "german_name" : "Lärche (Larix decidua)",
+    "german_description" : "Larix decidua hat sein Verbreitungsgebiet in den Alpen und den Karpaten. In Rumänien ist es relativ selten anzutreffen, natürlich in kleinen Gruppen oder vereinzelten Exemplaren in den Apuseni-, Bucegi- und Ceahlău-Gebirgen. Es ist ein mittelgroßer Baum mit breiter pyramidenförmiger Krone. Die Nadelblätter sind weich und in Büscheln angeordnet. Die Blätter färben sich im Herbst gelb und fallen ab, während die Zapfen klein und aufrecht sind.",
+
+    "french_name" : "Mélèze (Larix decidua)",
+    "french_description" : "Larix decidua se trouve dans les Alpes et dans les Carpates. En Roumanie, il est relativement peu répandu naturellement, se présentant sous forme de petits bosquets ou d'individus isolés dans les monts Apuseni, les Bucegi et le Ceahlău. C'est un arbre de taille moyenne, avec une couronne largement pyramidale. Il a des feuilles aciculaires douces disposées en fascicules. Les feuilles prennent une couleur jaune en automne et tombent, tandis que les cônes sont petits et dressés."
+}

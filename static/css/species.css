@@ -69,3 +69,81 @@ img.resize {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.sidenav a:visited {
+  color: black;
+}
+
+.sidenav {
+  height: 100%; 
+  width: 0;
+  position: fixed;
+  z-index: 1; 
+  top: 0;
+  background-color: #214a86; 
+  overflow-x: hidden;
+  padding-top: 60px; 
+  transition: 0.5s;
+  left: 0;
+  border-right: none;
+}
+
+.sidenav.open {
+  border-right: 3px solid black;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.infocbtn {
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+  color:white;
+}
+
+.infocbtn:hover {
+  color:black;
+}
+
+
+#main {
+  transition: margin-left .5s;
+  padding: 20px;
+}
+
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #214a86;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
+.openbtn:hover {
+  background-color: #1f384e;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}

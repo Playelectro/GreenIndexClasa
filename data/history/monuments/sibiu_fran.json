@@ -1,0 +1,12 @@
+{
+    "name" : "Sibiu",
+    "location" : [[45.80344780836099, 24.1447764473355]],
+    "description" : "Sibiul, ca membru activ al Francofoniei, întreține relații culturale și educaționale cu multe țări francofone, printre care Franța, Belgia, Elveția, Canada și multe țări africane. Festivalul Internațional de Teatru de la Sibiu (FITS) primește în mod regulat trupe de teatru de limbă franceză, prezentând piese în limba franceză alături de producții locale și internaționale. Prezența limbii franceze pe străzile din Sibiu este vizibilă și prin indicatoarele anumitor magazine, meniuri de restaurante și panouri de informare turistică, demonstrând astfel importanța Francofoniei în viața de zi cu zi a orașului.",
+    "images" : "/static/images/sibiu_fran/1.jpg",
+
+    "german_name" : "Hermanstadt",
+    "german_description" : "Als aktives Mitglied der Frankophonie unterhält Sibiu kulturelle und pädagogische Beziehungen zu vielen französischsprachigen Ländern, darunter Frankreich, Belgien, der Schweiz, Kanada und vielen afrikanischen Ländern. Das Sibiu International Theatre Festival (FITS) empfängt regelmäßig französischsprachige Theatergruppen und präsentiert neben lokalen und internationalen Produktionen auch Stücke auf Französisch. Die Präsenz der französischen Sprache in den Straßen von Sibiu ist auch durch die Schilder bestimmter Geschäfte, Speisekarten von Restaurants und Informationstafeln für Touristen sichtbar und verdeutlicht so die Bedeutung der Frankophonie im täglichen Leben der Stadt.",
+
+    "french_name" : "Sibiu",
+    "french_description" : "Sibiu, en tant que membre actif de la Francophonie, entretient des relations culturelles et éducatives avec de nombreux pays francophones, notamment la France, la Belgique, la Suisse, le Canada et de nombreux pays africains. Le Festival International de Théâtre de Sibiu (FITS) accueille régulièrement des troupes théâtrales francophones, présentant ainsi des pièces en français aux côtés de productions locales et internationales.  La présence de la langue française dans les rues de Sibiu est également visible à travers les enseignes de certains magasins, les menus des restaurants et les panneaux d'information touristique, démontrant ainsi l'importance de la francophonie dans la vie quotidienne de la ville. "
+}

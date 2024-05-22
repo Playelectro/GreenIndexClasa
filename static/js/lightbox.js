@@ -47,9 +47,21 @@ function closeInfo(){
 function openNav() {
   document.getElementById("SideNav").style.width = "250px";
   document.getElementById("main").style.marginLeft = "250px";
+  document.getElementById("SideNav").classList.add('open');
 }
 
 function closeNav() {
   document.getElementById("SideNav").style.width = "0";
   document.getElementById("main").style.marginLeft = "0";
+  document.getElementById("SideNav").classList.remove('open');
+}
+
+function hoverAnimation(element) {
+  element.style.transition = "transform 0.5s";
+  element.style.transform = "scale(1.05)"; 
+}
+
+function resetAnimation(element) {
+  element.style.transition = "transform 0.5s"; 
+  element.style.transform = "scale(1)"; 
 }

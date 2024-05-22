@@ -1,0 +1,12 @@
+{
+"name": "Rezervația Naturală Văcărești",  
+
+"location": [[44.4107, 26.1441]],  
+
+"description": "Rezervația Naturală Văcărești este o oază urbană situată în București, pe malul Lacului Văcărești. Este cunoscută pentru biodiversitatea sa unică și pentru faptul că a fost o fostă zonă industrială transformată într-un habitat natural protejat.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/rn_vacaresti.png" 
+
+} 

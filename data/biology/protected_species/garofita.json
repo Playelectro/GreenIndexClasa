@@ -1,0 +1,13 @@
+{
+    "name" : "Garofița (Dianthus callizonus)",
+   "location" : [[45.50603270786415, 25.23332268494753]],
+   "description" : "Garofița se întâlnește doar în Parcul Național Piatra Craiului, fiind o floare pe cale de dispariție. Ea înflorește cu precădere în zonele cu iarbă dintre stâncile din zona alpină inferioară. Garofița nu are mai mult de 3 – 4 cm, dar petalele de un roz aprins o fac să fie ușor observată. Perioada de înflorire a garofiței este între iulie și finalul lunii august.",
+    "status" : "Risc Scăzut",
+    "type" : "Plant",
+    "images" : "static/images/garofita1.jpeg",
+    "german_name" : "Die Nelke (Dianthus callizonus)",
+    "german_description" : "Die Nelke kommt nur im Piatra Craiului Nationalpark vor und ist eine vom Aussterben bedrohte Blume. Sie blüht hauptsächlich in den grasbewachsenen Bereichen zwischen den Felsen der unteren alpinen Zone. Die Nelke ist nicht größer als 3-4 cm, aber die leuchtend rosa Blütenblätter machen sie leicht erkennbar. Die Blütezeit der Nelke liegt zwischen Juli und Ende August.",
+
+    "french_name" : "L'œillet (Dianthus callizonus)",
+    "french_description" : "L'œillet n'est présente que dans le parc national de Piatra Craiului et est une fleur en voie de disparition. Elle fleurit principalement dans les zones herbeuses entre les rochers de la zone alpine inférieure. La garance ne mesure pas plus de 3 à 4 cm, mais ses pétales rose vif la rendent facilement observable. La période de floraison de L'œillet se situe entre juillet et la fin du mois d'août "
+  }  

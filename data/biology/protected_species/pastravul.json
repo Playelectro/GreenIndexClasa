@@ -1,0 +1,22 @@
+{ 
+
+    "name" : "Păstrăvul (Salmo trutta)" ,
+
+    "location" : [[47.0373032568575, 26.036135961564295]], 
+
+    "description" : "Păstrăvul este o specie de pește care trăiește în special în apele de munte, ape cu temperatură relativ scăzută și în timpul verii, dar poate fi găsit și în zonele mai joase, submontane și de deal, cu condiția ca apele să fie puternic oxigenate. Poate fi găsit și la altitudini de 250–300 m, însă principalul său habitat îl reprezintă apele de la altitudini de peste 1000 m.", 
+
+    "status" : "Risc scăzut", 
+
+    "type" : "Fish", 
+
+    "images" : "static/images/pastrav.jpg",
+    "german_name" : "Forellen",
+    "german_description" : "Die Forelle ist eine Fischart, die hauptsächlich in Gebirgsgewässern mit relativ niedrigen Temperaturen lebt, insbesondere im Sommer, aber auch in tieferen, submontanen und hügeligen Gebieten, vorausgesetzt, dass die Gewässer stark mit Sauerstoff versorgt sind. Sie kann auch in Höhenlagen von 250-300 Metern gefunden werden, aber ihr hauptsächliches Habitat sind Gewässer in Höhenlagen über 1000 Metern.",
+
+    "french_name" : "Truite",
+    "french_description" : "La truite est une espèce de poisson qui vit principalement dans les eaux de montagne, à température relativement basse, surtout en été, mais peut également être trouvée dans les zones plus basses, submontagneuses et collinaires, à condition que les eaux soient fortement oxygénées. On peut également la trouver à des altitudes de 250 à 300 mètres, mais son habitat principal se situe dans les eaux à des altitudes de plus de 1000 mètres." 
+
+} 
+
+ 

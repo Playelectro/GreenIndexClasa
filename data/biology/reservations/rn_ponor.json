@@ -1,0 +1,15 @@
+{ 
+
+ 
+
+"name": "Rezervația Naturală Ponorului",  
+
+"location": [[45.4692, 22.9025]],  
+
+"description": "Rezervația Naturală Ponorului este situată în Munții Apuseni și este cunoscută pentru numeroasele sale doline, peșteri și peisaje carstice. Aici se găsesc și cascade spectaculoase.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/rn_ponor.png" 
+
+} 

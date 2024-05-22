@@ -1,0 +1,15 @@
+{ 
+
+ 
+
+"name": "Rezervația Naturală Bucegi", 
+
+"location": [[45.4200, 25.4400]],  
+
+"description": "Rezervația Naturală Bucegi este situată în Munții Bucegi și este renumită pentru peisajele sale spectaculoase de stânci, chei și păduri. Aici se găsesc numeroase specii de plante și animale protejate.",  
+
+"status": "Stare stabilă", 
+
+"images" : "static/images/rn_bucegi.png" 
+
+} 

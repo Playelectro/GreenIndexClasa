@@ -163,10 +163,10 @@ def read_biology_data(marker_list, cluster, animal_group, fish_group, plant_grou
                     spec = folium.Marker(location = js['location'][i], tooltip = js['name'], name = js['name'],icon = get_icon("bio"))
                     plant_group.add_child(spec)
                 i+=1
-            
-            spec.add_to(cluster)
+                spec.add_to(cluster)
             marker_list.append(js)
-            leng+=1
+
+            leng+=1            
             f.close()
 
     for j_file in glob.glob("data/biology/reservations/*.json"):
@@ -189,7 +189,6 @@ def read_biology_data(marker_list, cluster, animal_group, fish_group, plant_grou
           #  js['german_description'] = jst["description"]
             
             poly = folium.Marker(location= js['location'][0], tooltip=js['name'], name=js['name'],icon = get_icon("bio"))
-            reservs_group.add_child(poly)
             marker_list.append(js)
             spec.add_to(cluster)
             leng+=1

@@ -1,0 +1,19 @@
+{ 
+
+"name": "Cocoșul de munte (Tetrao urogallus)", 
+
+"location": [[45.052221, 23.717497]], 
+
+"description": "Este o specie de pasăre de talie mare, cu dimorfism sexual accentuat. Masculul este cu aproape o treime mai mare decât femela; acesta are un colorit general închis, penaj cu irizații metalice, cu o pată rotundă și albă pe umăr. Ciocul este masiv, galben și încovoiat; sprânceană roșie, gâtul lung și coada lungă. Femela are penajul maroniu cu dungi negre; gâtul și partea superioară a pieptului maro-portocaliu fără striații, pe aripi are pete albe, mari și evidente, având aspect de bretele.", 
+
+"status": "Risc Crescut", 
+"type":"Animal",
+
+"images": "static/images/Cocos_De_Munte.jpg",
+"german_name" : "Auerhuhn (Tetrao urogallus)",
+"german_description" : "Es ist eine Art von Vogel von großer Größe, mit ausgeprägtem Geschlechtsdimorphismus. Das Männchen ist fast ein Drittel größer als das Weibchen; es hat eine allgemein dunkle Farbe, gefiedert mit metallischen Schillern, mit einem runden, weißen Fleck auf der Schulter. Der Schnabel ist massiv, gelb und gekrümmt; rote Augenbraue, langer Hals und langer Schwanz. Das Weibchen hat ein braunes Gefieder mit schwarzen Streifen; der Hals und die obere Brust sind orange-braun ohne Streifen, auf den Flügeln hat es weiße, große und deutliche Flecken, die wie Bänder aussehen.",
+
+"french_name" : "Grand Tétras (Tetrao urogallus)",
+"french_description" : "C'est une espèce d'oiseau de grande taille, avec un dimorphisme sexuel prononcé. Le mâle est presque un tiers plus grand que la femelle ; il a une coloration générale sombre, un plumage avec des reflets métalliques, avec une tache ronde et blanche sur l'épaule. Le bec est massif, jaune et courbé ; un sourcil rouge, un long cou et une longue queue. La femelle a un plumage brun avec des rayures noires ; le cou et la partie supérieure de la poitrine sont marron-orange sans stries, sur les ailes elle a de grandes taches blanches, évidentes, ressemblant à des bretelles." 
+
+}

@@ -1,0 +1,14 @@
+{
+    "name" : "Crinul de pădure (Lilium martagon)",
+   "location" : [[45.382039699074745, 22.882207269148136]],
+   "description" : "Deoarece este o specie mezofilă, crinul de pădure crește doar în zona pădurilor de stejar și fag. La origini, crinul de pădure este o plantă sălbatică specifică vestului Europei, dar odată ajunsă în România a fost trecut pe lista cu plante protejate de lege. Crinul de pădure înflorește între lunile mai – iunie, iar dintr-un singur fir apar, de obicei, între 20 – 50 de flori roșii, roz sau violet.",
+    "status" : "Risc Scăzut",
+    "type" : "Plant",
+    "images" : "static/images/crin_de_padure1.jpeg",
+    "german_name" : "Türkenbundlilie (Lilium martagon)",
+    "german_description" : "Da es sich um eine mesophile Art handelt, wächst der Türkenbund-Lilie nur in Eichen- und Buchenwäldern. Ursprünglich ist der Türkenbund-Lilie eine wildwachsende Pflanze, die spezifisch für Westeuropa ist, aber einmal in Rumänien angekommen, wurde sie in die Liste der durch das Gesetz geschützten Pflanzen aufgenommen. Der Türkenbund-Lilie blüht zwischen Mai und Juni, und aus einem einzigen Stängel erscheinen normalerweise zwischen 20 und 50 rote, rosa oder violette Blüten. ",
+
+    "french_name" : "Lys martagon (Lilium martagon)",
+    "french_description" : "Parce qu'il s'agit d'une espèce mésophile, le lys martagon ne pousse que dans les forêts de chênes et de hêtres. À l'origine, le lys martagon est une plante sauvage spécifique à l'ouest de l'Europe, mais une fois arrivé en Roumanie, il a été inscrit sur la liste des plantes protégées par la loi. Le lys martagon fleurit entre les mois de mai et juin, et généralement, entre 20 et 50 fleurs rouges, roses ou violettes apparaissent sur une seule tige."
+  }
+  
