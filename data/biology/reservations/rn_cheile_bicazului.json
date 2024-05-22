@@ -1,13 +1,13 @@
 { 
 
-"name": "Rezervația Naturală Pădurea Craiului",  
+"name": "Rezervația Naturală Cheile Bicazului",  
 
-"location": [[45.5500, 22.9667]],  
+"location": [[46.8053, 25.8103]],  
 
-"description": "Rezervația Naturală Pădurea Craiului este situată în Munții Apuseni și este renumită pentru pădurile sale de fag și gorun, peisajele pitorești și biodiversitatea sa bogată.",  
+"description": "Rezervația Naturală Cheile Bicazului, situată în Carpații Orientali, România, este faimoasă pentru peisajele sale dramatice cu stânci abrupte și serpentine spectaculoase. Oferă trasee de drumeție, alpinism și oportunități de observare a florei și faunei locale. Este un loc deosebit pentru iubitorii de natură și aventură.", 
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/pn_padurea_craiului.png" 
+"images" : "static/images/pn_cheile_bicazului.png" 
 
 } 
