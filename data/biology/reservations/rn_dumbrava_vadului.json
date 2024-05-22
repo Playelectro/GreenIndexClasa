@@ -10,6 +10,11 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/rn_dumbrava_vadului.png" 
+"images" : "static/images/rn_dumbrava_vadului.png",
+"german_name" : "Naturschutzgebiet Dumbrava Vadului",
+    "german_description" : "Das Naturschutzgebiet Dumbrava Vadului liegt im Gurghiului-Gebirge und ist bekannt für seine Buchen- und Gorunwälder, malerischen Landschaften und seine reiche Artenvielfalt.",
+
+    "french_name" : "Réserve naturelle de Dumbrava Vadului",
+    "french_description" : "La réserve naturelle de Dumbrava Vadului est située dans les montagnes de Gurghiului et est connue pour ses forêts de hêtres et de goruns, ses paysages pittoresques et sa riche biodiversité." 
 
 } 

@@ -8,6 +8,13 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/pn_retezat.png" 
+"images" : "static/images/pn_retezat.png",
+
+"german_name" : "Retezat-Nationalpark",
+    "german_description" : "Der Retezat-Nationalpark liegt in den Südkarpaten und ist berühmt für seine spitzen Gipfel, Gletscherseen und seine reiche Artenvielfalt, darunter viele seltene und endemische Pflanzen- und Tierarten.",
+
+    "french_name" : "Parc national Retezat",
+    "french_description" : "Le parc national Retezat est situé dans les Carpates du Sud et est célèbre pour ses sommets acérés, ses lacs glaciaires et sa riche biodiversité, comprenant de nombreuses espèces rares et endémiques de plantes et d'animaux."
+
 
 } 

@@ -10,6 +10,13 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/pn_piatra_craiului.png" 
+"images" : "static/images/pn_piatra_craiului.png",
+
+"german_name" : "Nationalpark Piatra Craiului",
+    "german_description" : "Der Nationalpark Piatra Craiului ist berühmt für seine Kalksteinmassive, malerischen Landschaften und seine bemerkenswerte Artenvielfalt, zu der viele gesetzlich geschützte Pflanzen- und Tierarten gehören.",
+
+    "french_name" : "Parc national Piatra Craiului",
+    "french_description" : "Le parc national Piatra Craiului est célèbre pour ses massifs calcaires, ses paysages pittoresques et sa biodiversité exceptionnelle, qui comprend de nombreuses espèces de plantes et d'animaux protégés par la loi."
+
 
 } 
