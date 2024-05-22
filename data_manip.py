@@ -46,7 +46,7 @@ def format_data(data, lang):
         name = data['german_name']
         description = data['german_description']
     
-    title = f"<h1>{name}</h1>"
+    title = f"<h1><p align = right> {name}</p></h1>"
   #  if data.get('status') is None or len(data['status']) == 0  or data['status'].find("default") != -1:
   #      title = f"<h1>{data['name']}</h1>"
   #   else:
