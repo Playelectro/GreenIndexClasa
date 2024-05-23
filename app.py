@@ -29,7 +29,7 @@ rules = []
 def index():
    return iframe(lang = "ro")
 #Make german version
-@app.route('/ger')
+@app.route('/de')
 def index_german():
     return iframe(lang = "ger")
 
@@ -112,7 +112,7 @@ def iframe(lang):
             
         if intrest_data is not None:
             div_marker = "item_first"
-        
+        print(intrest_data)
         return data_manip.format_data(intrest_data, lang)
                         
     return render_template('index.html', header = header, body_html = body_html, script = script, interest_data = intrest_data)
