@@ -29,7 +29,7 @@ rules = []
 def index():
    return iframe(lang = "ro")
 #Make german version
-@app.route('/ger')
+@app.route('/de')
 def index_german():
     return iframe(lang = "ger")
 
