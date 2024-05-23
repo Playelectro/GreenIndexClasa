@@ -10,6 +10,11 @@
 
 "status": "Stare stabilă",
 
-"images" : "static/images/rn_putna.png" 
+"images" : "static/images/rn_putna.png",
+"german_name" : "Naturschutzgebiet Putna-Vrancea",
+    "german_description" : "Das Naturschutzgebiet Putna-Vrancea liegt im zentralöstlichen Teil des Landes und ist bekannt für seine Buchenurwälder und seine seltenen Tierarten wie den Braunbären und den Wolf.",
+
+    "french_name" : "Réserve naturelle de Putna-Vrancea",
+    "french_description" : "La réserve naturelle de Putna-Vrancea est située dans le centre-est du pays et est connue pour ses forêts vierges de hêtres et ses espèces animales rares, comme l'ours brun et le loup." 
 
 } 

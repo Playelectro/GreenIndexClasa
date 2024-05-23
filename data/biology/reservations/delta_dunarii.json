@@ -1,14 +1,16 @@
 { 
 
 "name": "Delta Dunării",  
-
 "location": [[45.1708, 29.7111]],  
-
 "description": "Delta Dunării este cea mai mare rezervație naturală de acest tip din Europa, reprezentând un ecosistem unic cu o bogată diversitate biologică, inclusiv numeroase specii de păsări, pești și plante. Este recunoscută și ca UNESCO Biosphere Reserve.",  
-
 "status": "Stare stabilă", 
+"images" : "static/images/delta_dunarii.png" ,
 
-"images" : "static/images/delta_dunarii.png" 
+"german_name" : "Das Donaudelta",
+"german_description" : "Das Donaudelta ist das größte Naturschutzgebiet seiner Art in Europa und stellt ein einzigartiges Ökosystem mit einer reichen biologischen Vielfalt dar, darunter zahlreiche Vogel-, Fisch- und Pflanzenarten. Es ist auch als UNESCO-Biosphärenreservat anerkannt.",
+
+    "french_name" : "Le delta du Danube",
+    "french_description" : "Le delta du Danube est la plus grande réserve naturelle de ce type en Europe, représentant un écosystème unique avec une riche diversité biologique, comprenant de nombreuses espèces d'oiseaux, de poissons et de plantes. Il est également reconnu comme réserve de biosphère par l'UNESCO."
 
  
 

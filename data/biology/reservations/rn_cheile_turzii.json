@@ -10,7 +10,12 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/rn_cheile_turzii.png" 
+"images" : "static/images/rn_cheile_turzii.png",
+"german_name" : "Naturschutzgebiet Cheile Turzii",
+    "german_description" : "Das Naturschutzgebiet Cheile Turzii ist berühmt für seine beeindruckenden Felsformationen, Höhlen und Eichenwälder. Hier gibt es zahlreiche Arten von Flora und Fauna, darunter Fledermäuse und seltene Vögel.",
+
+    "french_name" : "Réserve Naturelle Cheile Turzii",
+    "french_description" : "La réserve naturelle de Cheile Turzii est célèbre pour ses impressionnantes formations rocheuses, ses grottes et ses forêts de chênes. De nombreuses espèces de flore et de faune s'y trouvent, notamment des chauves-souris et des oiseaux rares." 
 
  
 

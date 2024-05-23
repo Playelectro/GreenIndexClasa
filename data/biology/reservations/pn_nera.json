@@ -3,13 +3,16 @@
  
 
 "name": "Parcul Național Cheile Nerei-Beușnița",  
-
 "location": [[44.8028, 21.8167]], 
-
 "description": "Parcul Național Cheile Nerei-Beușnița este cunoscut pentru peisajele sale spectaculoase de chei, cascade, păduri și râuri cristaline. Aici se găsesc numeroase specii de floră și faună, unele dintre ele fiind rare sau endemice.",  
-
 "status": "Stare stabilă", 
+"images" : "static/images/pn_nera.png",
 
-"images" : "static/images/pn_nera.png" 
+"german_name" : "Nationalpark Cheile Nerei-Beușnița",
+    "german_description" : "Der Nationalpark Cheile Nerei-Beușnița ist für seine spektakulären Landschaften mit Schluchten, Wasserfällen, Wäldern und kristallklaren Flüssen bekannt. Hier gibt es viele Arten von Flora und Fauna, von denen einige selten oder endemisch sind.",
+
+    "french_name" : "Parc national Cheile Nerei-Beușnița",
+    "french_description" : "Le parc national Cheile Nerei-Beușnița est connu pour ses paysages spectaculaires de gorges, cascades, forêts et rivières aux eaux cristallines. On y trouve de nombreuses espèces de flore et de faune, certaines d'entre elles étant rares ou endémiques."
+
 
 }

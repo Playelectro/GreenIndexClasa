@@ -7,6 +7,11 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/rn_vacaresti.png" 
+"images" : "static/images/rn_vacaresti.png",
+"german_name" : "Naturschutzgebiet Văcărești",
+    "german_description" : "Das Naturschutzgebiet Văcărești ist eine städtische Oase in Bukarest am Ufer des Văcărești-Sees. Es ist bekannt für seine einzigartige Artenvielfalt und die Tatsache, dass es sich um ein ehemaliges Industriegebiet handelte, das in einen geschützten natürlichen Lebensraum umgewandelt wurde.",
+
+    "french_name" : "Réserve naturelle de Văcărești",
+    "french_description" : "La réserve naturelle de Văcărești est une oasis urbaine située à Bucarest, au bord du lac Văcărești. Elle est connue pour sa biodiversité unique et pour le fait qu'elle était une ancienne zone industrielle transformée en habitat naturel protégé." 
 
 } 
