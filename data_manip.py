@@ -189,8 +189,10 @@ def read_biology_data(marker_list, cluster, animal_group, fish_group, plant_grou
           #  js['german_description'] = jst["description"]
             
             poly = folium.Marker(location= js['location'][0], tooltip=js['name'], name=js['name'],icon = get_icon("bio"))
+            reservs_group.add_child(poly)
             marker_list.append(js)
-            spec.add_to(cluster)
+            poly.add_to(cluster)
+            
             leng+=1
             f.close()
     bio_end = bio_beign + leng
@@ -258,9 +260,7 @@ def read_religion_data(marker_list, cluster, religion_group):
                 religion_group.add_child(spec)
                 spec.add_to(cluster)
                 i+=1
-            
-            
-            marker_list.append(js)
+                marker_list.append(js)
             length +=1
             f.close()
     rel_end = rel_begin + length
