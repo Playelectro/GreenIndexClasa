@@ -8,6 +8,10 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/pn_cheile_bicazului.png"
+"images" : "static/images/pn_cheile_bicazului.png",
+"german_name" : "Das Naturschutzgebiet Cheile Bicazului",
+    "german_description" : "Das Naturschutzgebiet Cheile Bicazului in den Ostkarpaten in Rumänien ist berühmt für seine dramatischen Landschaften mit steilen Klippen und spektakulären Serpentinen. Es bietet Wanderwege, Klettermöglichkeiten und Möglichkeiten, die lokale Flora und Fauna zu beobachten. Es ist ein besonderer Ort für Natur- und Abenteuerliebhaber.",
 
+    "french_name" : "La réserve naturelle Cheile Bicazului",
+    "french_description" : "La réserve naturelle de Cheile Bicazului, située dans les Carpates orientales, en Roumanie, est célèbre pour ses paysages spectaculaires avec des falaises abruptes et des serpentines spectaculaires. Il propose des sentiers de randonnée, de l'escalade et des possibilités d'observer la flore et la faune locales. C'est un endroit spécial pour les amoureux de la nature et de l'aventure." 
 } 

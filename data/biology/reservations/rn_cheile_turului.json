@@ -10,7 +10,12 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/rn_cheile_turului.png" 
+"images" : "static/images/rn_cheile_turului.png",
+"german_name" : "Naturschutzgebiet Cheile Turului",
+    "german_description" : "Das Naturschutzgebiet Cheile Turului liegt im Buzăului-Gebirge und ist für seine tiefen Schluchten, Kalksteinfelsen und wilden Landschaften bekannt. Hier gibt es viele geschützte Pflanzen- und Tierarten.",
+
+    "french_name" : "Réserve naturelle Cheile Turului",
+    "french_description" : "La réserve naturelle de Cheile Turului est située dans les montagnes de Buzăului et est connue pour ses gorges profondes, ses falaises calcaires et ses paysages sauvages. On y trouve de nombreuses espèces végétales et animales protégées." 
 
  
 

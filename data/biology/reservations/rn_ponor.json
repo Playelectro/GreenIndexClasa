@@ -10,6 +10,11 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/rn_ponor.png" 
+"images" : "static/images/rn_ponor.png",
+"german_name" : "Naturschutzgebiet Ponorului",
+    "german_description" : "Das Naturschutzgebiet Ponorului liegt im Apuseni-Gebirge und ist für seine vielen Dolinen, Höhlen und Karstlandschaften bekannt. Auch spektakuläre Wasserfälle gibt es hier.",
+
+    "french_name" : "Réserve naturelle de Ponorului",
+    "french_description" : "La réserve naturelle de Ponorului est située dans les monts Apuseni et est connue pour ses nombreux gouffres, grottes et paysages karstiques. Des cascades spectaculaires se trouvent également ici." 
 
 } 

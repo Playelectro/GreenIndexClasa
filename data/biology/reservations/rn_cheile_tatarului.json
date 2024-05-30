@@ -8,7 +8,12 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/rn_cheile_tatarului.png" 
+"images" : "static/images/rn_cheile_tatarului.png",
+"german_name" : "Naturschutzgebiet Cheile Tătarului",
+    "german_description" : "Das Naturschutzgebiet Cheile Tătarului liegt im Banater Gebirge und ist für seine spektakuläre Landschaft aus Schluchten, Kalksteinfelsen und Wasserfällen bekannt. Hier gibt es viele Arten seltener Pflanzen und Tiere.",
+
+    "french_name" : "Le Caprcoise",
+    "french_description" : "La réserve naturelle de Cheile Tătarului est située dans les montagnes du Banat et est connue pour ses paysages spectaculaires de gorges, de falaises calcaires et de cascades. De nombreuses espèces de plantes et d'animaux rares s'y trouvent." 
 
  
 

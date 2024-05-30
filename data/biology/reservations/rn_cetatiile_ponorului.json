@@ -10,7 +10,12 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/rn_cetatiile_ponorului.png" 
+"images" : "static/images/rn_cetatiile_ponorului.png",
+"german_name" : "Naturschutzgebiet der Ponorului-Zitadellen",
+    "german_description" : "Das Naturschutzgebiet Cetătile Ponorului liegt im Trascău-Gebirge und ist für seine beeindruckenden Karstformationen, darunter Dolinen und Höhlen, bekannt. Hier gibt es viele Arten von Flora und Fauna.",
+
+    "french_name" : "Réserve naturelle des citadelles de Ponorului",
+    "french_description" : "La réserve naturelle de Cetătile Ponorului est située dans les montagnes de Trascău et est connue pour ses impressionnantes formations karstiques, notamment des dolines et des grottes. De nombreuses espèces de flore et de faune s'y trouvent." 
 
  
 

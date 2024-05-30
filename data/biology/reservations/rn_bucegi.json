@@ -10,6 +10,13 @@
 
 "status": "Stare stabilă", 
 
-"images" : "static/images/rn_bucegi.png" 
+"images" : "static/images/rn_bucegi.png",
+
+"german_name" : "Bucegi-Naturschutzgebiet",
+    "german_description" : "Das Naturschutzgebiet Bucegi liegt im Bucegi-Gebirge und ist berühmt für seine spektakulären Landschaften aus Klippen, Schluchten und Wäldern. Hier gibt es viele geschützte Pflanzen- und Tierarten.",
+
+    "french_name" : "Réserve naturelle de Bucegi",
+    "french_description" : "La réserve naturelle de Bucegi est située dans les montagnes de Bucegi et est célèbre pour ses paysages spectaculaires de falaises, de gorges et de forêts. On y trouve de nombreuses espèces végétales et animales protégées."
+
 
 } 
